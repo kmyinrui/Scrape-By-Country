@@ -1,2 +1,0 @@
-ss://b178f29c-5765-48ec-866d-914a5a7eaa39@185.146.173.58:8080?security=none&type=ws&encryption=none&type=ws&path=%2Fservernett&sni=lc69.lebasnoo.ir.&headerType=none#%F0%9F%87%B8%F0%9F%87%AA_SE_%E7%91%9E%E5%85%B8-%3E%F0%9F%87%AE%F0%9F%87%B7_IR_%E4%BC%8A%E6%9C%97
-vless://b178f29c-5765-48ec-866d-914a5a7eaa39@185.146.173.58:8080?security=none&type=ws&encryption=none&type=ws&path=%2Fservernett&sni=lc69.lebasnoo.ir.&headerType=none#%F0%9F%87%B8%F0%9F%87%AA_SE_%E7%91%9E%E5%85%B8-%3E%F0%9F%87%AE%F0%9F%87%B7_IR_%E4%BC%8A%E6%9C%97
