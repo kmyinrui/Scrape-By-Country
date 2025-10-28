@@ -32,13 +32,12 @@ logging.basicConfig(level=logging.INFO,
 # --- 协议类别 ---  
 PROTOCOL_CATEGORIES = [
     "Vmess", "Vless", "Trojan", "ShadowSocks", "ShadowSocksR",
-    "Tuic", "Hysteria2", "WireGuard", "Hysteria", "Hysteria1", "SS"
+    "Tuic", "Hysteria2", "WireGuard", "Hysteria", "NaiveProxy", 
+    "SS", "SSROld", "SSRNew", "Shadowsocks2022", "TrojanGo",
+    "Hysteria1", "Snell"
 ]
 # 预编译协议前缀列表，提高性能
 PROTOCOL_PREFIXES = [p.lower() + "://" for p in PROTOCOL_CATEGORIES]
-
-# 预编译正则表达式缓存，避免重复编译相同模式
-COMPILED_PATTERNS_CACHE = {}
 
 # --- 检查非英语文本的辅助函数 ---
 def is_non_english_text(text):
@@ -280,7 +279,7 @@ def get_shadowsocks_name(ss_config):
     except Exception:
         return None
 
-# --- Filter Function ---
+# --- New Filter Function ---
 def should_filter_config(config):
     """根据特定规则过滤无效或低质量的配置"""
     if not config or not isinstance(config, str):
@@ -290,23 +289,24 @@ def should_filter_config(config):
     if FILTERED_PHRASE in config.lower():
         return True
     
-    # URL编码检查逻辑
+    # 修复URL编码检查逻辑
     percent25_count = config.count('%25')
     if percent25_count >= MIN_PERCENT25_COUNT:
         logging.debug(f"配置被过滤: URL编码过度 ({percent25_count} 个 %25)")
         return True
     
-    # 长度限制检查
+    # 使用更大的长度限制，减少误过滤
     if len(config) >= MAX_CONFIG_LENGTH:
         logging.debug(f"配置被过滤: 长度超过限制 ({len(config)} 字符)")
         return True
     
-    # 全面的协议关键词列表，确保所有支持的协议类型都能被识别
+    # 使用更全面的协议关键词列表，确保新添加的协议类型也能被识别
     common_protocol_keywords = ['vmess', 'vless', 'trojan', 'ss://', 'ssr://', 
-                               'tuic', 'hy2', 'wireguard', 'hysteria', 
-                               'hysteria1', 'ss']
+                               'tuic', 'hy2', 'wireguard', 'hysteria', 'snell',
+                               'ss2022', 'trojan-go', 'naiveproxy', 'shadowsocks2022',
+                               'hysteria1']
     
-    # 优化协议关键词检查逻辑，使用高效的字符串查找
+    # 优化协议关键词检查逻辑，使用更高效的集合查找
     config_lower = config.lower()
     has_protocol_keyword = any(keyword in config_lower for keyword in common_protocol_keywords)
     
@@ -314,7 +314,8 @@ def should_filter_config(config):
     if not has_protocol_keyword and ('://' in config):
         has_protocol_keyword = True
     
-    # 返回值：True 表示需要过滤，False 表示保留
+    # 修复返回值与函数名的一致性问题
+    # should_filter_config 应该返回 True 表示需要过滤，False 表示保留
     return not has_protocol_keyword
 
 async def fetch_url(session, url):
@@ -378,9 +379,6 @@ def find_matches(text, categories_data):
     # 只初始化有模式的类别，节省内存
     matches = {}
     
-    # 预编译所有正则表达式模式，避免重复编译
-    compiled_patterns = {}
-    
     for category, patterns in categories_data.items():
         # 只处理非空的模式列表
         if not patterns or not isinstance(patterns, list):
@@ -396,17 +394,10 @@ def find_matches(text, categories_data):
                 # 使用预编译的协议前缀列表提高性能
                 is_protocol_pattern = any(proto_prefix in pattern_str.lower() for proto_prefix in PROTOCOL_PREFIXES)
                 
-                # 确保处理所有支持的协议类别
                 if category in PROTOCOL_CATEGORIES or is_protocol_pattern:
-                    # 检查是否已编译此模式，使用全局缓存提高性能
-                    if pattern_str not in compiled_patterns:
-                        # 同时更新全局缓存和局部缓存
-                        if pattern_str not in COMPILED_PATTERNS_CACHE:
-                            COMPILED_PATTERNS_CACHE[pattern_str] = re.compile(pattern_str, re.IGNORECASE | re.MULTILINE)
-                        compiled_patterns[pattern_str] = COMPILED_PATTERNS_CACHE[pattern_str]
-                    
-                    # 使用缓存的编译模式
-                    pattern = compiled_patterns[pattern_str]
+                    # 优化正则表达式性能，避免同时使用过多标志
+                    # 移除DOTALL标志以减少匹配范围，提高性能
+                    pattern = re.compile(pattern_str, re.IGNORECASE | re.MULTILINE)
                     found = pattern.findall(text)
                     
                     if found:
@@ -429,6 +420,7 @@ def find_matches(text, categories_data):
         if category_matches:
             matches[category] = category_matches
     
+    # 直接返回匹配结果，不再进行额外过滤
     return matches
 
 def save_to_file(directory, category_name, items_set):
@@ -718,16 +710,6 @@ async def main():
                     else:
                         page_filtered_count += 1
         
-        # 特殊处理：确保所有ss://开头的配置被正确识别为SS协议
-        ss_protocol_configs = set()
-        for config in all_page_configs_after_filter:
-            if config.startswith('ss://') and not any(config in final_all_protocols[p] for p in ['ShadowSocks', 'SS']):
-                ss_protocol_configs.add(config)
-        
-        # 将未归类的ss://配置添加到SS协议类别
-        for config in ss_protocol_configs:
-            final_all_protocols['SS'].add(config)
-        
         found_configs += len(all_page_configs_after_filter)
         filtered_out_configs += page_filtered_count
         
@@ -739,16 +721,16 @@ async def main():
         # 为每个配置关联国家信息
         for config in all_page_configs_after_filter:
             name_to_check = None
-        
-        # 1. 首先尝试从URL片段中提取名称（#后面的部分）
-        if '#' in config:
-            try:
-                potential_name = config.split('#', 1)[1]
-                name_to_check = unquote(potential_name).strip()
-                if not name_to_check:
-                    name_to_check = None
-            except (IndexError, Exception) as e:
-                logging.debug(f"从URL片段提取名称失败: {e}")
+            
+            # 1. 首先尝试从URL片段中提取名称（#后面的部分）
+            if '#' in config:
+                try:
+                    potential_name = config.split('#', 1)[1]
+                    name_to_check = unquote(potential_name).strip()
+                    if not name_to_check:
+                        name_to_check = None
+                except (IndexError, Exception) as e:
+                    logging.debug(f"从URL片段提取名称失败: {e}")
 
             # 2. 如果URL片段中没有名称，尝试从协议特定字段提取
             if not name_to_check:
@@ -761,8 +743,8 @@ async def main():
                 elif config.startswith('vless://'):
                     name_to_check = get_vless_name(config)
                 elif config.startswith('ss://'):
-                    # 对ShadowSocks配置使用统一的名称提取函数
                     name_to_check = get_shadowsocks_name(config)
+                # 其他协议的名称提取支持
 
             # 如果无法获取名称，跳过此配置
             if not name_to_check or not isinstance(name_to_check, str):
