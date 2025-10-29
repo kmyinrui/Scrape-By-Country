@@ -495,9 +495,12 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, u
     if not isinstance(country_counts, dict):
         country_counts = {}
     
+    # 确保使用正确的当前时间
     tz = pytz.timezone('Asia/Shanghai')
+    # 使用datetime.now()获取系统当前时间，并应用正确的时区
     now = datetime.now(tz)
     timestamp = now.strftime("%Y-%m-%d %H:%M:%S %Z")
+    logging.info(f"生成README时的当前时间戳: {timestamp}")
     
     # 计算统计信息
     total_protocol_configs = sum(protocol_counts.values())
