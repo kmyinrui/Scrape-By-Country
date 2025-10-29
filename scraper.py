@@ -10,6 +10,7 @@ from datetime import datetime
 import pytz
 import base64
 from urllib.parse import parse_qs, unquote
+import platform
 
 # --- 配置常量 ---
 CONFIG_DIR = 'config'  # 配置文件夹，用于存放输入文件
@@ -38,9 +39,7 @@ PROTOCOL_CATEGORIES = [
 # 预编译协议前缀列表，提高性能
 PROTOCOL_PREFIXES = [p.lower() + "://" for p in PROTOCOL_CATEGORIES]
 
-# V2Ray 软件支持的协议列表
-V2RAY_SUPPORTED_PROTOCOLS = ["Vmess", "Vless", "Trojan", "ShadowSocks"]
-V2RAY_SUPPORTED_PREFIXES = [p.lower() + "://" for p in V2RAY_SUPPORTED_PROTOCOLS]
+# 配置常量定义
 
 # --- 检查非英语文本的辅助函数 ---
 def is_non_english_text(text):
@@ -283,23 +282,27 @@ def get_shadowsocks_name(ss_config):
         return None
 
 # --- New Filter Function ---
-def should_filter_config(config):
-    """根据特定规则过滤无效或低质量的配置"""
+def should_filter_config(config, filter_stats):
+    """根据特定规则过滤无效或低质量的配置，并收集过滤统计信息"""
     if not config or not isinstance(config, str):
+        filter_stats['format'] += 1
         return True
     
     # 检查是否包含过滤短语
     if FILTERED_PHRASE in config.lower():
+        filter_stats['format'] += 1
         return True
     
     # 修复URL编码检查逻辑
     percent25_count = config.count('%25')
     if percent25_count >= MIN_PERCENT25_COUNT:
+        filter_stats['url_encoding'] += 1
         logging.debug(f"配置被过滤: URL编码过度 ({percent25_count} 个 %25)")
         return True
     
     # 使用更大的长度限制，减少误过滤
     if len(config) >= MAX_CONFIG_LENGTH:
+        filter_stats['length'] += 1
         logging.debug(f"配置被过滤: 长度超过限制 ({len(config)} 字符)")
         return True
     
@@ -317,22 +320,30 @@ def should_filter_config(config):
     
     # 修复返回值与函数名的一致性问题
     # should_filter_config 应该返回 True 表示需要过滤，False 表示保留
-    return not has_protocol_keyword
-
-def is_v2ray_compatible(config):
-    """检查配置是否与V2Ray软件兼容"""
-    if not config or not isinstance(config, str):
-        return False
+    if not has_protocol_keyword:
+        filter_stats['protocol'] += 1
+        return True
     
-    config_lower = config.lower()
-    # 检查是否包含V2Ray支持的协议前缀
-    return any(prefix in config_lower for prefix in V2RAY_SUPPORTED_PREFIXES)
+    return False
 
-async def fetch_url(session, url):
-    """异步获取URL内容并提取文本"""
+# 移除V2Ray兼容检查函数
+
+async def fetch_url(session, url, response_times_sum, response_times_count, response_times, error_stats):
+    """异步获取URL内容并提取文本，同时收集响应时间数据"""
+    start_time = datetime.now()
     try:
         async with session.get(url, timeout=REQUEST_TIMEOUT) as response:
             response.raise_for_status()
+            # 计算响应时间
+            end_time = datetime.now()
+            response_time = (end_time - start_time).total_seconds()
+            
+            # 更新响应时间统计
+            if response_time > 0:
+                response_times_sum[0] += response_time  # 使用列表作为可变对象传递
+                response_times_count[0] += 1
+                response_times['max'] = max(response_times['max'], response_time)
+                response_times['min'] = min(response_times['min'], response_time)
             
             # 尝试处理不同的内容类型
             content_type = response.headers.get('Content-Type', '')
@@ -374,10 +385,13 @@ async def fetch_url(session, url):
             logging.debug(f"成功获取: {url}")
             return url, text_content
     except asyncio.TimeoutError:
+        error_stats['url_request'] += 1
         logging.warning(f"请求超时: {url}")
     except aiohttp.ClientError as e:
+        error_stats['url_request'] += 1
         logging.warning(f"客户端错误获取URL: {url} - {e}")
     except Exception as e:
+        error_stats['url_request'] += 1
         logging.warning(f"获取URL时发生意外错误: {url} - {e}")
     return url, None
 
@@ -433,8 +447,11 @@ def find_matches(text, categories_data):
     # 直接返回匹配结果，不再进行额外过滤
     return matches
 
-def save_to_file(directory, category_name, items_set):
+def save_to_file(directory, category_name, items_set, error_stats=None):
     """将项目集合保存到指定目录的文本文件中"""
+    if error_stats is None:
+        error_stats = {'file_save': 0}
+        
     if not items_set:
         logging.debug(f"跳过空集合的保存: {category_name}")
         return False, 0
@@ -453,10 +470,13 @@ def save_to_file(directory, category_name, items_set):
         logging.info(f"已保存 {count} 项到 {file_path}")
         return True, count
     except IOError as e:
+        error_stats['file_save'] += 1
         logging.error(f"写入文件失败 {file_path}: {e}")
+        return False, 0
     except Exception as e:
-        logging.error(f"保存文件时发生意外错误 {file_path}: {e}")
-    return False, 0
+        error_stats['file_save'] += 1
+        logging.error(f"保存文件时发生未知错误 {file_path}: {e}")
+        return False, 0
 
 # --- 使用旗帜图像生成简单的README函数 ---
 def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, use_local_paths=True):
@@ -556,6 +576,15 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, u
         with open(README_FILE, 'w', encoding='utf-8') as f:
             f.write(md_content)
         logging.info(f"成功生成 {README_FILE}")
+        
+        # 更新README文件所在目录的时间戳
+        try:
+            readme_dir = os.path.dirname(README_FILE) or '.'
+            os.utime(readme_dir)
+            logging.debug(f"已更新README文件所在目录的修改时间: {os.path.abspath(readme_dir)}")
+        except Exception as dir_e:
+            logging.warning(f"更新README目录时间失败: {dir_e}")
+            
     except Exception as e:
         logging.error(f"写入 {README_FILE} 失败: {e}")
 
@@ -646,13 +675,48 @@ async def main():
     logging.info(f"已加载 {len(urls)} 个URL和 "
                  f"{len(categories_data)} 个总类别从keywords.json。")
 
+    # 初始化统计变量
+    success_count = 0
+    processed_pages = 0
+    found_configs = 0
+    filtered_out_configs = 0
+    
+    # 初始化增强日志所需的统计数据
+    response_times = {'max': 0, 'min': float('inf')}
+    response_times_sum = [0]  # 使用列表作为可变对象传递
+    response_times_count = [0]  # 使用列表作为可变对象传递
+    
+    filter_stats = {
+        'url_encoding': 0,
+        'length': 0,
+        'protocol': 0,
+        'format': 0
+    }
+    
+    error_stats = {
+        'url_request': 0,
+        'config_parse': 0,
+        'file_save': 0,
+        'dir_create': 0
+    }
+    
+    resource_stats = {
+        'memory': 'N/A',
+        'cpu': 'N/A'
+    }
+    
+    execution_time = {
+        'start': datetime.now(),
+        'total': 'N/A'
+    }
+    
     # 异步获取所有页面
     sem = asyncio.Semaphore(CONCURRENT_REQUESTS)  # 限制并发请求数
     
     async def fetch_with_semaphore(session, url_to_fetch):
-        """使用信号量限制并发的fetch_url"""
+        """使用信号量限制并发的fetch_url，并传递统计参数"""
         async with sem:
-            return await fetch_url(session, url_to_fetch)
+            return await fetch_url(session, url_to_fetch, response_times_sum, response_times_count, response_times, error_stats)
     
     # 创建HTTP会话并执行所有获取任务
     async with aiohttp.ClientSession() as session:
@@ -719,7 +783,7 @@ async def main():
             # 确保使用的是有效的协议类别
             if base_protocol in PROTOCOL_CATEGORIES:
                 for config in configs_found:
-                    if not should_filter_config(config):
+                    if not should_filter_config(config, filter_stats):
                         all_page_configs_after_filter.add(config)
                         final_all_protocols[base_protocol].add(config)
                     else:
@@ -852,7 +916,6 @@ async def main():
     # 准备输出目录结构
     country_dir = os.path.join(OUTPUT_DIR, COUNTRY_SUBDIR)
     protocol_dir = os.path.join(OUTPUT_DIR, PROTOCOL_SUBDIR)
-    v2ray_compatible_dir = os.path.join(OUTPUT_DIR, "v2ray_compatible")  # 初始化v2ray_compatible_dir变量
     
     if os.path.exists(OUTPUT_DIR):
         try:
@@ -875,19 +938,16 @@ async def main():
         output_dir_abs = os.path.abspath(OUTPUT_DIR)
         country_dir_abs = os.path.abspath(country_dir)
         protocol_dir_abs = os.path.abspath(protocol_dir)
-        v2ray_compatible_dir_abs = os.path.abspath(v2ray_compatible_dir)  # 使用已初始化的变量
         
         os.makedirs(country_dir_abs, exist_ok=True)
         os.makedirs(protocol_dir_abs, exist_ok=True)
-        os.makedirs(v2ray_compatible_dir_abs, exist_ok=True)
         
         logging.info(f"正在保存文件到目录: {output_dir_abs}")
         logging.info(f"国家配置将保存到: {country_dir_abs}")
         logging.info(f"协议配置将保存到: {protocol_dir_abs}")
-        logging.info(f"V2Ray兼容配置将保存到: {v2ray_compatible_dir_abs}")
         
         # 验证目录创建成功
-        if os.path.exists(country_dir_abs) and os.path.exists(protocol_dir_abs) and os.path.exists(v2ray_compatible_dir_abs):
+        if os.path.exists(country_dir_abs) and os.path.exists(protocol_dir_abs):
             logging.info("输出目录创建成功")
         else:
             logging.warning("输出目录创建可能不成功，请检查路径和权限")
@@ -898,14 +958,10 @@ async def main():
             current_dir = os.getcwd()
             fallback_country_dir = os.path.join(current_dir, OUTPUT_DIR, COUNTRY_SUBDIR)
             fallback_protocol_dir = os.path.join(current_dir, OUTPUT_DIR, PROTOCOL_SUBDIR)
-            fallback_v2ray_dir = os.path.join(current_dir, OUTPUT_DIR, "v2ray_compatible")
             os.makedirs(fallback_country_dir, exist_ok=True)
             os.makedirs(fallback_protocol_dir, exist_ok=True)
-            os.makedirs(fallback_v2ray_dir, exist_ok=True)
             country_dir = fallback_country_dir
             protocol_dir = fallback_protocol_dir
-            v2ray_compatible_dir_abs = fallback_v2ray_dir
-            v2ray_compatible_dir = fallback_v2ray_dir  # 添加v2ray_compatible_dir变量，保持一致性
             logging.warning(f"已切换到备选目录: {current_dir}\{OUTPUT_DIR}")
         except Exception as fallback_e:
             logging.critical(f"备选目录创建也失败: {fallback_e}")
@@ -929,7 +985,7 @@ async def main():
         # 确保使用集合的实际大小作为计数，保持与国家配置保存逻辑一致
         actual_count = len(items)
         logging.info(f"正在保存协议配置: {category}，包含 {actual_count} 个配置")
-        saved, count = save_to_file(protocol_dir, category, items)
+        saved, count = save_to_file(protocol_dir, category, items, error_stats)
         if saved:
             protocol_counts[category] = actual_count  # 使用实际计数
             protocols_saved += 1
@@ -957,27 +1013,17 @@ async def main():
             continue
             
         # 确保使用集合的实际大小作为计数
-        actual_count = len(items)
-        logging.info(f"正在保存国家配置: {category}，包含 {actual_count} 个配置")
-        saved, count = save_to_file(country_dir, category, items)
-        if saved:
-            country_counts[category] = actual_count
-            countries_with_configs += 1
-            total_country_configs += actual_count
-            countries_saved += 1
-            logging.info(f"已保存国家配置: {category}, 节点数量: {actual_count}")
-            
-            # 同时保存V2Ray兼容的配置
-            v2ray_configs_set = set(config for config in items if is_v2ray_compatible(config))
-            if v2ray_configs_set:
-                v2ray_count = len(v2ray_configs_set)
-                # 初始化v2ray_compatible_dir变量，如果不存在则使用abs路径
-                if 'v2ray_compatible_dir' not in locals():
-                    v2ray_compatible_dir = v2ray_compatible_dir_abs
-                v2ray_saved, _ = save_to_file(v2ray_compatible_dir, category, v2ray_configs_set)
-                logging.info(f"国家 '{category}' 有 {v2ray_count}/{actual_count} 个配置与V2Ray兼容")
-        else:
-            logging.warning(f"国家配置保存失败: {category}")
+            actual_count = len(items)
+            logging.info(f"正在保存国家配置: {category}，包含 {actual_count} 个配置")
+            saved, count = save_to_file(country_dir, category, items, error_stats)
+            if saved:
+                country_counts[category] = actual_count
+                countries_with_configs += 1
+                total_country_configs += actual_count
+                countries_saved += 1
+                logging.info(f"已保存国家配置: {category}, 节点数量: {actual_count}")
+            else:
+                logging.warning(f"国家配置保存失败: {category}")
     
     logging.info(f"总共保存了 {countries_saved} 个国家配置文件，包含 {total_country_configs} 个配置")
     
@@ -1001,22 +1047,106 @@ async def main():
         readme_update_time = "未知"
         if os.path.exists(README_FILE):
             try:
+                # 使用与README生成相同的时区
+                tz = pytz.timezone('Asia/Shanghai')
                 readme_mtime = os.path.getmtime(README_FILE)
                 readme_update_datetime = datetime.fromtimestamp(readme_mtime, tz)
                 readme_update_time = readme_update_datetime.strftime("%Y-%m-%d %H:%M:%S %Z")
+                logging.debug(f"README文件修改时间: {readme_update_time}")
             except Exception as e:
                 logging.warning(f"获取README修改时间失败: {e}")
         
-        log_entry = f"""========== 更新日志 - {log_timestamp} ==========
-URL总数: {len(urls)}
-成功获取的URL数: {success_count}
-处理的页面数: {processed_pages}
-找到的有效配置数: {found_configs}
-过滤掉的无效配置数: {filtered_out_configs}
-保存的协议配置总数: {protocol_config_count}
-有配置的国家数量: {countries_with_configs}
-国家相关配置总数: {total_country_configs}
-README更新时间: {readme_update_time}
+        # 增强的详细日志内容，记录完整执行流程
+        # 计算平均响应时间和执行总时间
+        avg_response_time = response_times_sum[0] / response_times_count[0] if response_times_count[0] > 0 else 0
+        logging.debug(f"响应时间统计: 平均={avg_response_time:.2f}s, 最大={response_times['max']:.2f}s, 最小={response_times['min']:.2f}s, 样本数={response_times_count[0]}")
+        
+        # 计算执行总时间
+        if execution_time.get('start'):
+            execution_time['total'] = (datetime.now() - execution_time['start']).total_seconds()
+        
+        log_entry = f"""========== GitHub Action 执行日志 - {log_timestamp} ==========
+
+[程序启动信息]
+- 程序版本: V1.0
+- 执行环境: Python {platform.python_version()}
+- 操作系统: {platform.system()} {platform.release()}
+- 执行路径: {os.getcwd()}
+- 环境变量状态: {'GITHUB_ACTIONS变量存在' if 'GITHUB_ACTIONS' in os.environ else 'GITHUB_ACTIONS变量不存在'}
+
+[配置加载情况]
+- URL列表文件: {os.path.abspath('config/urls.txt') if os.path.exists('config/urls.txt') else 'urls.txt'}
+- 国家关键词文件: {os.path.abspath('config/keywords.json') if os.path.exists('config/keywords.json') else 'keywords.json'}
+- 初始URL总数: {len(urls)}
+
+[网络请求详情]
+- 成功获取的URL数: {success_count}/{len(urls)}
+- 失败的URL数: {len(urls) - success_count}
+- 平均响应时间: {f"{avg_response_time:.2f}秒" if avg_response_time > 0 else 'N/A'}
+- 最长响应时间: {f"{response_times['max']:.2f}秒" if response_times['max'] > 0 else 'N/A'}
+- 最短响应时间: {f"{response_times['min']:.2f}秒" if response_times['min'] < float('inf') else 'N/A'}
+- 响应时间样本数: {response_times_count[0]}
+
+[页面处理详情]
+- 处理的页面总数: {processed_pages}
+- 跳过的无效页面: {len(fetched_pages) - processed_pages}
+- 找到的配置总数: {found_configs}
+- 过滤掉的无效配置: {filtered_out_configs}
+- 过滤配置占比: {f"{filtered_out_configs/found_configs:.1%}" if found_configs > 0 else 'N/A'}
+
+[配置过滤统计]
+- URL编码检查过滤: {filter_stats.get('url_encoding', 0)}
+- 长度限制过滤: {filter_stats.get('length', 0)}
+- 协议关键词过滤: {filter_stats.get('protocol', 0)}
+- 格式验证过滤: {filter_stats.get('format', 0)}
+- 过滤分类详情: {filter_stats}
+- 总过滤数: {sum(filter_stats.values())}
+
+[国家关联详情]
+- 处理的国家关键词: {len(country_keywords_for_naming) if 'country_keywords_for_naming' in locals() else 'N/A'}
+- 有配置的国家数量: {countries_with_configs}
+- 国家相关配置总数: {total_country_configs}
+- 平均每个国家配置数: {f"{total_country_configs/countries_with_configs:.1f}" if countries_with_configs > 0 else '0'}
+
+[目录处理信息]
+- 输出目录: {os.path.abspath(OUTPUT_DIR)}
+- 国家配置目录: {os.path.abspath(country_dir)}
+- 协议配置目录: {os.path.abspath(protocol_dir)}
+- 目录创建状态: {'成功' if os.path.exists(OUTPUT_DIR) else '失败'}
+- 目录权限检查: {'可写' if os.path.exists(OUTPUT_DIR) and os.access(OUTPUT_DIR, os.W_OK) else '不可写' if os.path.exists(OUTPUT_DIR) else '目录不存在'}
+
+[文件保存详情]
+- 保存的协议配置总数: {protocol_config_count}
+- 保存的协议配置文件数: {protocols_saved}
+- 保存的国家配置文件数: {countries_saved}
+- 平均每个协议配置数: {f"{protocol_config_count/protocols_saved:.1f}" if protocols_saved > 0 else '0'}
+- 保存状态: {'成功' if protocols_saved > 0 or countries_saved > 0 else '失败'}
+
+[README生成]
+- README文件路径: {os.path.abspath(README_FILE)}
+- README更新时间: {readme_update_time}
+- README文件大小: {os.path.getsize(README_FILE) if os.path.exists(README_FILE) else 'N/A'}字节
+
+[错误和异常信息]
+- URL请求错误: {error_stats.get('url_request', 0)}
+- 配置解析错误: {error_stats.get('config_parse', 0)}
+- 文件保存错误: {error_stats.get('file_save', 0)}
+- 目录创建错误: {error_stats.get('dir_create', 0)}
+- 错误统计详情: {error_stats}
+- 总错误数: {sum(error_stats.values())}
+
+[资源使用情况]
+- 内存使用: {resource_stats.get('memory', 'N/A')}
+- CPU使用率: {resource_stats.get('cpu', 'N/A')}
+- 执行总时间: {execution_time.get('total', 'N/A')}秒
+- 执行开始时间: {execution_time.get('start', 'N/A').strftime('%Y-%m-%d %H:%M:%S') if hasattr(execution_time.get('start', None), 'strftime') else 'N/A'}
+
+[GitHub Actions运行信息]
+- 运行编号: {os.environ.get('GITHUB_RUN_NUMBER', 'N/A')}
+- 运行ID: {os.environ.get('GITHUB_RUN_ID', 'N/A')}
+- 工作流名称: {os.environ.get('GITHUB_WORKFLOW', 'N/A')}
+- 分支名称: {os.environ.get('GITHUB_REF', 'N/A')}
+- 提交SHA: {os.environ.get('GITHUB_SHA', 'N/A')}
 ====================================================\n\n"""
         
         # 确保日志文件所在目录存在
@@ -1024,6 +1154,21 @@ README更新时间: {readme_update_time}
         if log_dir:
             os.makedirs(log_dir, exist_ok=True)
             logging.debug(f"确保日志目录存在: {log_dir}")
+        
+        # 更新output_configs文件夹的修改时间，确保显示为最新更新
+        try:
+            if os.path.exists(OUTPUT_DIR):
+                os.utime(OUTPUT_DIR)  # 更新文件夹的访问和修改时间为当前时间
+                logging.info(f"已更新output_configs文件夹的修改时间: {os.path.abspath(OUTPUT_DIR)}")
+                
+                # 同时更新子目录的时间
+                for subdir in [PROTOCOL_SUBDIR, COUNTRY_SUBDIR]:
+                    subdir_path = os.path.join(OUTPUT_DIR, subdir)
+                    if os.path.exists(subdir_path):
+                        os.utime(subdir_path)
+                        logging.debug(f"已更新{subdir}子目录的修改时间: {os.path.abspath(subdir_path)}")
+        except Exception as e:
+            logging.warning(f"更新output_configs文件夹时间失败: {e}")
         
         # 使用绝对路径确保文件写入正确位置
         update_log_abs_path = os.path.abspath(UPDATE_LOG_FILE)
@@ -1062,7 +1207,6 @@ README更新时间: {readme_update_time}
     logging.info(f"输出目录结构:")
     logging.info(f"- 协议配置: {protocol_dir}")
     logging.info(f"- 国家配置: {country_dir}")
-    logging.info(f"- V2Ray兼容配置: {v2ray_compatible_dir}")
     logging.info(f"README文件已更新: {os.path.abspath(README_FILE)}")
     logging.info(f"更新日志已生成: {os.path.abspath(UPDATE_LOG_FILE)}")
 
