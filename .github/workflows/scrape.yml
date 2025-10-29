@@ -37,12 +37,17 @@ jobs:
 
       - name: ⬆️ Commit and Push Changes
         run: |
-          git add output_configs/ README.md #
+          # 确保我们强制添加所有文件，包括没有内容变化的文件
+          # 使用--force参数强制添加，确保所有文件都被包含在提交中
+          git add --force output_configs/ README.md
 
+          # 检查是否有文件被暂存
           if git diff --staged --quiet; then
             echo "No changes detected. Skipping commit."
           else
             echo "Changes detected. Committing and pushing..."
-            git commit -m "docs: Update README and config files [skip ci]"
+            # 使用--date选项强制设置所有文件的提交时间为当前时间
+            CURRENT_TIME=$(date -u +"%Y-%m-%d %H:%M:%S %z")
+            git commit --date="$CURRENT_TIME" -m "docs: Update README and config files [skip ci]"
             git push
           fi
