@@ -19,7 +19,7 @@ OUTPUT_DIR = 'output_configs'
 COUNTRY_SUBDIR = 'countries'  # 国家配置文件夹
 PROTOCOL_SUBDIR = 'protocols' # 协议配置文件夹
 README_FILE = 'README.md'
-UPDATE_LOG_FILE = 'update_log.txt'  # 每日更新日志文件
+UPDATE_LOG_FILE = os.path.join(OUTPUT_DIR, 'update_log.txt')  # 每日更新日志文件，放在output_configs文件夹中
 REQUEST_TIMEOUT = 15
 CONCURRENT_REQUESTS = 10
 MAX_CONFIG_LENGTH = 5000  # 增加最大配置长度，允许更长的节点信息
@@ -37,6 +37,10 @@ PROTOCOL_CATEGORIES = [
 ]
 # 预编译协议前缀列表，提高性能
 PROTOCOL_PREFIXES = [p.lower() + "://" for p in PROTOCOL_CATEGORIES]
+
+# V2Ray 软件支持的协议列表
+V2RAY_SUPPORTED_PROTOCOLS = ["Vmess", "Vless", "Trojan", "ShadowSocks"]
+V2RAY_SUPPORTED_PREFIXES = [p.lower() + "://" for p in V2RAY_SUPPORTED_PROTOCOLS]
 
 # --- 检查非英语文本的辅助函数 ---
 def is_non_english_text(text):
@@ -314,6 +318,15 @@ def should_filter_config(config):
     # 修复返回值与函数名的一致性问题
     # should_filter_config 应该返回 True 表示需要过滤，False 表示保留
     return not has_protocol_keyword
+
+def is_v2ray_compatible(config):
+    """检查配置是否与V2Ray软件兼容"""
+    if not config or not isinstance(config, str):
+        return False
+    
+    config_lower = config.lower()
+    # 检查是否包含V2Ray支持的协议前缀
+    return any(prefix in config_lower for prefix in V2RAY_SUPPORTED_PREFIXES)
 
 async def fetch_url(session, url):
     """异步获取URL内容并提取文本"""
@@ -839,6 +852,7 @@ async def main():
     # 准备输出目录结构
     country_dir = os.path.join(OUTPUT_DIR, COUNTRY_SUBDIR)
     protocol_dir = os.path.join(OUTPUT_DIR, PROTOCOL_SUBDIR)
+    v2ray_compatible_dir = os.path.join(OUTPUT_DIR, "v2ray_compatible")  # 初始化v2ray_compatible_dir变量
     
     if os.path.exists(OUTPUT_DIR):
         try:
@@ -861,16 +875,19 @@ async def main():
         output_dir_abs = os.path.abspath(OUTPUT_DIR)
         country_dir_abs = os.path.abspath(country_dir)
         protocol_dir_abs = os.path.abspath(protocol_dir)
+        v2ray_compatible_dir_abs = os.path.abspath(v2ray_compatible_dir)  # 使用已初始化的变量
         
         os.makedirs(country_dir_abs, exist_ok=True)
         os.makedirs(protocol_dir_abs, exist_ok=True)
+        os.makedirs(v2ray_compatible_dir_abs, exist_ok=True)
         
         logging.info(f"正在保存文件到目录: {output_dir_abs}")
         logging.info(f"国家配置将保存到: {country_dir_abs}")
         logging.info(f"协议配置将保存到: {protocol_dir_abs}")
+        logging.info(f"V2Ray兼容配置将保存到: {v2ray_compatible_dir_abs}")
         
         # 验证目录创建成功
-        if os.path.exists(country_dir_abs) and os.path.exists(protocol_dir_abs):
+        if os.path.exists(country_dir_abs) and os.path.exists(protocol_dir_abs) and os.path.exists(v2ray_compatible_dir_abs):
             logging.info("输出目录创建成功")
         else:
             logging.warning("输出目录创建可能不成功，请检查路径和权限")
@@ -881,10 +898,14 @@ async def main():
             current_dir = os.getcwd()
             fallback_country_dir = os.path.join(current_dir, OUTPUT_DIR, COUNTRY_SUBDIR)
             fallback_protocol_dir = os.path.join(current_dir, OUTPUT_DIR, PROTOCOL_SUBDIR)
+            fallback_v2ray_dir = os.path.join(current_dir, OUTPUT_DIR, "v2ray_compatible")
             os.makedirs(fallback_country_dir, exist_ok=True)
             os.makedirs(fallback_protocol_dir, exist_ok=True)
+            os.makedirs(fallback_v2ray_dir, exist_ok=True)
             country_dir = fallback_country_dir
             protocol_dir = fallback_protocol_dir
+            v2ray_compatible_dir_abs = fallback_v2ray_dir
+            v2ray_compatible_dir = fallback_v2ray_dir  # 添加v2ray_compatible_dir变量，保持一致性
             logging.warning(f"已切换到备选目录: {current_dir}\{OUTPUT_DIR}")
         except Exception as fallback_e:
             logging.critical(f"备选目录创建也失败: {fallback_e}")
@@ -893,6 +914,7 @@ async def main():
     # 保存协议配置文件
     protocol_counts = {}
     protocols_saved = 0
+    total_protocol_configs = 0  # 添加总配置计数变量
     
     if not final_all_protocols:
         logging.warning("没有协议配置需要保存，final_all_protocols为空")
@@ -904,15 +926,19 @@ async def main():
             logging.debug(f"跳过空集合的保存: {category}")
             continue
             
-        logging.info(f"正在保存协议配置: {category}，包含 {len(items)} 个配置")
+        # 确保使用集合的实际大小作为计数，保持与国家配置保存逻辑一致
+        actual_count = len(items)
+        logging.info(f"正在保存协议配置: {category}，包含 {actual_count} 个配置")
         saved, count = save_to_file(protocol_dir, category, items)
         if saved:
-            protocol_counts[category] = count
+            protocol_counts[category] = actual_count  # 使用实际计数
             protocols_saved += 1
+            total_protocol_configs += actual_count  # 累加总配置数
+            logging.info(f"已保存协议配置: {category}, 节点数量: {actual_count}")
         else:
             logging.warning(f"协议配置保存失败: {category}")
     
-    logging.info(f"总共保存了 {protocols_saved} 个协议配置文件")
+    logging.info(f"总共保存了 {protocols_saved} 个协议配置文件，包含 {total_protocol_configs} 个配置")
     
     # 保存国家配置文件并确保计数准确
     country_counts = {}
@@ -940,6 +966,16 @@ async def main():
             total_country_configs += actual_count
             countries_saved += 1
             logging.info(f"已保存国家配置: {category}, 节点数量: {actual_count}")
+            
+            # 同时保存V2Ray兼容的配置
+            v2ray_configs_set = set(config for config in items if is_v2ray_compatible(config))
+            if v2ray_configs_set:
+                v2ray_count = len(v2ray_configs_set)
+                # 初始化v2ray_compatible_dir变量，如果不存在则使用abs路径
+                if 'v2ray_compatible_dir' not in locals():
+                    v2ray_compatible_dir = v2ray_compatible_dir_abs
+                v2ray_saved, _ = save_to_file(v2ray_compatible_dir, category, v2ray_configs_set)
+                logging.info(f"国家 '{category}' 有 {v2ray_count}/{actual_count} 个配置与V2Ray兼容")
         else:
             logging.warning(f"国家配置保存失败: {category}")
     
@@ -952,8 +988,8 @@ async def main():
         logging.error(f"生成README文件时出错: {e}")
         # 继续执行，不中断程序
     
-    # 计算统计信息
-    protocol_config_count = sum(protocol_counts.values())
+    # 计算统计信息 - 使用直接统计的总数更准确
+    protocol_config_count = total_protocol_configs  # 使用直接统计的变量，而不是重新计算
     
     # 生成并保存更新日志
     try:
@@ -982,6 +1018,12 @@ URL总数: {len(urls)}
 国家相关配置总数: {total_country_configs}
 README更新时间: {readme_update_time}
 ====================================================\n\n"""
+        
+        # 确保日志文件所在目录存在
+        log_dir = os.path.dirname(UPDATE_LOG_FILE)
+        if log_dir:
+            os.makedirs(log_dir, exist_ok=True)
+            logging.debug(f"确保日志目录存在: {log_dir}")
         
         # 使用绝对路径确保文件写入正确位置
         update_log_abs_path = os.path.abspath(UPDATE_LOG_FILE)
@@ -1012,16 +1054,17 @@ README更新时间: {readme_update_time}
         import traceback
         logging.error(f"错误详情: {traceback.format_exc()}")
     
-    # 输出完成信息
+    # 输出完成信息，显示实际使用的目录路径
     logging.info(f"=== 抓取完成 ===")
     logging.info(f"找到并保存的协议配置: {protocol_config_count}")
     logging.info(f"有配置的国家数量: {countries_with_configs}")
     logging.info(f"国家相关配置总数: {total_country_configs}")
     logging.info(f"输出目录结构:")
-    logging.info(f"- 协议配置: {os.path.join(OUTPUT_DIR, PROTOCOL_SUBDIR)}")
-    logging.info(f"- 国家配置: {os.path.join(OUTPUT_DIR, COUNTRY_SUBDIR)}")
-    logging.info(f"README文件已更新: {README_FILE}")
-    logging.info(f"更新日志已生成: {UPDATE_LOG_FILE}")
+    logging.info(f"- 协议配置: {protocol_dir}")
+    logging.info(f"- 国家配置: {country_dir}")
+    logging.info(f"- V2Ray兼容配置: {v2ray_compatible_dir}")
+    logging.info(f"README文件已更新: {os.path.abspath(README_FILE)}")
+    logging.info(f"更新日志已生成: {os.path.abspath(UPDATE_LOG_FILE)}")
 
 if __name__ == "__main__":
     try:
