@@ -1155,20 +1155,33 @@ async def main():
             os.makedirs(log_dir, exist_ok=True)
             logging.debug(f"确保日志目录存在: {log_dir}")
         
-        # 更新output_configs文件夹的修改时间，确保显示为最新更新
+        # 更新output_configs文件夹及其所有内容的修改时间，确保在GitHub Actions中显示一致
         try:
             # 使用绝对路径确保正确更新文件夹时间
             output_dir_abs = os.path.abspath(OUTPUT_DIR)
+            current_time = (time.time(), time.time())  # (access_time, modify_time)
+            
+            # 先更新子目录和文件时间戳
+            for subdir in [PROTOCOL_SUBDIR, COUNTRY_SUBDIR]:
+                subdir_path = os.path.join(output_dir_abs, subdir)
+                if os.path.exists(subdir_path):
+                    # 递归更新目录中所有文件的时间戳
+                    for root, dirs, files in os.walk(subdir_path):
+                        for file in files:
+                            file_path = os.path.join(root, file)
+                            try:
+                                os.utime(file_path, current_time)
+                            except Exception as file_e:
+                                logging.debug(f"无法更新文件时间戳 {file_path}: {file_e}")
+                    # 最后更新目录本身的时间戳
+                    os.utime(subdir_path, current_time)
+                    logging.info(f"已更新{subdir}子目录及其所有文件的修改时间: {subdir_path}")
+            
+            # 最后更新主目录时间戳，确保它是最后更新的
             if os.path.exists(output_dir_abs):
-                os.utime(output_dir_abs)  # 更新文件夹的访问和修改时间为当前时间
+                os.utime(output_dir_abs, current_time)
                 logging.info(f"已更新output_configs文件夹的修改时间: {output_dir_abs}")
                 
-                # 同时使用绝对路径更新子目录的时间
-                for subdir in [PROTOCOL_SUBDIR, COUNTRY_SUBDIR]:
-                    subdir_path = os.path.join(output_dir_abs, subdir)
-                    if os.path.exists(subdir_path):
-                        os.utime(subdir_path)
-                        logging.info(f"已更新{subdir}子目录的修改时间: {subdir_path}")
         except Exception as e:
             logging.warning(f"更新output_configs文件夹时间失败: {e}")
         
