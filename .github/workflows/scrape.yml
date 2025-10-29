@@ -41,13 +41,9 @@ jobs:
           # 使用--force参数强制添加，确保所有文件都被包含在提交中
           git add --force output_configs/ README.md update_log.txt
 
-          # 检查是否有文件被暂存
-          if git diff --staged --quiet; then
-            echo "No changes detected. Skipping commit."
-          else
-            echo "Changes detected. Committing and pushing..."
-            # 使用--date选项强制设置所有文件的提交时间为当前时间
-            CURRENT_TIME=$(date -u +"%Y-%m-%d %H:%M:%S %z")
-            git commit --date="$CURRENT_TIME" -m "docs: Update README and config files [skip ci]"
-            git push
-          fi
+          # 即使没有内容变化，我们也强制提交以更新文件时间戳
+          echo "Committing all staged files including directories..."
+          # 使用--date选项强制设置所有文件的提交时间为当前时间
+          CURRENT_TIME=$(date -u +"%Y-%m-%d %H:%M:%S %z")
+          git commit --date="$CURRENT_TIME" -m "docs: Update README and config files"
+          git push
