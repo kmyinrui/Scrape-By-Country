@@ -39,7 +39,7 @@ jobs:
         run: |
           # 确保我们强制添加所有文件，包括没有内容变化的文件
           # 使用--force参数强制添加，确保所有文件都被包含在提交中
-          git add --force output_configs/ README.md
+          git add --force output_configs/ README.md update_log.txt
 
           # 检查是否有文件被暂存
           if git diff --staged --quiet; then
