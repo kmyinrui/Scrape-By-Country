@@ -409,7 +409,7 @@ async def main():
             country_counts[category] = count
 
     generate_simple_readme(protocol_counts, country_counts, categories_data,
-                          github_repo_path="areyrteuurt/Auto-Tomas",
+                          github_repo_path="Scrape-By-Country/Scrape-By-Country",
                           github_branch="main")
 
     logging.info("--- Script Finished ---")
