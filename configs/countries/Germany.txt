@@ -1,2 +1,7 @@
 hysteria2://70197404-7b40-45e4-bb9c-8bc8995012ae@fra-nb-01.linlujs.pw:24568?insecure=0#DE-telegram-%40ISVvpn%20%20%F0%9F%8C%90%20%D9%84%D9%88%DA%A9%DB%8C%D8%B4%D9%86%3A...
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:443#%E5%BE%B7%E5%9B%BD
+ss://6392be67-c360-4dc9-d243-d1352c6abafc@3.72.2.163:42258?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%204
+ss://71d5d46d-4133-4fd9-bbab-e8cd9838a4f3@91.107.208.24:8080?path=%2FPayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop%3Fed%3D2056&security=none&encryption=none&host=91.107.208.24&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%205
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZaVplVFEydllMYlRnNkl0MWNHVFRN@germany.ownvpnnaing.store:8133/?outline=1#GERMANY🇧🇪🇧🇪
+vless://6392be67-c360-4dc9-d243-d1352c6abafc@3.72.2.163:42258?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%204
+vless://71d5d46d-4133-4fd9-bbab-e8cd9838a4f3@91.107.208.24:8080?path=%2FPayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop-PayamerShop%3Fed%3D2056&security=none&encryption=none&host=91.107.208.24&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%205
+vmess://eyJhZGQiOiI5MS45OC4zMC4zMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjN2RlZDY5Zi1iNTQ5LTRlMTEtYWE2OS1hYzAwMjE4NjNjYmMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdGVsZWdyYW1fQHNzd2lhIiwicG9ydCI6IjIwNTIyIiwicHMiOiLwn4ep8J+HqiBHZXJtYW55IDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=

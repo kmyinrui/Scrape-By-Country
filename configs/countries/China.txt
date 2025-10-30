@@ -1,1 +1,0 @@
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:1572?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp&headerType=none#%E4%B8%AD%E5%9B%BD
