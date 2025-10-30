@@ -13,14 +13,14 @@
   <img src="https://img.shields.io/badge/language-中文%20%26%20English-007EC6?style=flat-square" alt="Language" />
 </p>
 
-## 最后更新: 09:48 2025-10-30
+## 最后更新: 09:51 2025-10-30
 
 ---
 
 ## 📖 关于项目
 这个项目自动从各种来源收集和分类VPN配置（如V2Ray、Trojan和Shadowsocks等不同协议）。我们的目标是为用户提供最新且可靠的配置。
 
-> **注意:** 为了保证质量，过长或包含不必要字符（如大量`%25`）的配置将被过滤。
+
 
 ---
 
