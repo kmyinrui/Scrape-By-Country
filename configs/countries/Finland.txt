@@ -1,7 +1,11 @@
+ss://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=c2fa#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-1
 ss://3ebac9fe-b632-473f-d3da-41a3ef82cf4f@37.27.215.232:2089?path=%2F&security=&encryption=none&host=quic.cloud&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland
 ss://56b4cb63-a69b-4485-a429-e955111c8bc4@46.62.225.235:26998?encryption=none&type=tcp&security=reality&fp=firefox&sni=Tekzo.ir&pbk=qsE9EmYS6z4IVl5oIxVAn16dtTIjYFYL_ETwpiFdQB4&sid=a523678a97e42162&spx=/#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU21xYTl1SzlPbzFlaXZQeVhpQUg4@83.147.216.70:64519#%F0%9F%87%AB%F0%9F%87%AEFinland%20%2329219%20%2F%20OutlineKeys.com
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng%3D@65.21.243.22:31348#%F0%9F%87%AB%F0%9F%87%AEFinland%20%2328009%20%2F%20OutlineKeys.com
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.194:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-14
+vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=c2fa#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-1
 vless://3ebac9fe-b632-473f-d3da-41a3ef82cf4f@37.27.215.232:2089?path=%2F&security=&encryption=none&host=quic.cloud&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland
 vless://56b4cb63-a69b-4485-a429-e955111c8bc4@46.62.225.235:26998?encryption=none&type=tcp&security=reality&fp=firefox&sni=Tekzo.ir&pbk=qsE9EmYS6z4IVl5oIxVAn16dtTIjYFYL_ETwpiFdQB4&sid=a523678a97e42162&spx=/#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-11
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.194:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-14
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh64gVk1FU1Mt5pyq55+lPuiKrOWFsC1ORuino+mUgeiKrOWFsOWcsOWMuumdnuiHquWItuWJpy1DaGF0R1BULVRpa1Rvay1Zb3VUdWJlLTEwNC4xNy4yMjMuMTg6ODAiLCJhZGQiOiIxMDQuMTcuMjIzLjE4IiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImZmMmQxN2M2LTBkOTYtNDgwMS1hMjcwLTlkYmE4MzM0ZjhjNiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
