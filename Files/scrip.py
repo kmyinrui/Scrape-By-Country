@@ -276,7 +276,7 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, g
 ---
 
 ## 📢 注意事项
-- 本项目仅用于教育和研究目的。
+- 本项目仅用于学习和研究目的。
 - 请根据您所在国家的法律负责任地使用配置。
 - 如遇问题或建议，请使用 [Issues](https://github.com/Eleven1985/Scrape-By-Country/issues) 部分。
 """
@@ -409,7 +409,7 @@ async def main():
             country_counts[category] = count
 
     generate_simple_readme(protocol_counts, country_counts, categories_data,
-                          github_repo_path="Scrape-By-Country/Scrape-By-Country",
+                          github_repo_path="Eleven1985/Scrape-By-Country",
                           github_branch="main")
 
     logging.info("--- Script Finished ---")
