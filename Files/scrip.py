@@ -180,7 +180,7 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, g
 ## 📖 关于项目
 这个项目自动从各种来源收集和分类VPN配置（如V2Ray、Trojan和Shadowsocks等不同协议）。我们的目标是为用户提供最新且可靠的配置。
 
-> **注意:** 为了保证质量，过长或包含不必要字符（如大量`%25`）的配置将被过滤。
+
 
 ---
 
