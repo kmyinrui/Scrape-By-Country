@@ -62,6 +62,8 @@ trojan://T%40_WvT8Ho%40LW%25w_%2C@172.66.47.42:2053?security=tls&sni=NOp-55q.pAg
 trojan://T%40_WvT8Ho%40LW%25w_%2C@nop-55q.pages.dev:2053?allowInsecure=0&sni=NOp-55q.pAgEs.dEv&ws=1&wspath=%2FtrGPZDfetEwuO25SAs#%F0%9F%87%BA%F0%9F%87%B8%20US
 trojan://T%40_WvT8Ho%40LW%25w_%2C@nop-55q.pages.dev:2053?path=%2FtrGPZDfetEwuO25SAs&security=tls&host=NOp-55q.pAgEs.dEv&type=ws&sni=NOp-55q.pAgEs.dEv#🌐服务器17
 trojan://T%40_WvT8Ho%40LW%25w_%2C@nop-55q.pages.dev:2053?path=%2FtrGPZDfetEwuO25SAs&security=tls&host=NOp-55q.pAgEs.dEv&type=ws&sni=NOp-55q.pAgEs.dEv#🌐服务器18
+trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=none&type=grpc&sni=www.yahoo.com&encryption=none&pbk=LiHpb4jWrgHBSpi1mjKH3I8m2ahpVNexeNDh&headerType=none&fp=chrome&spx=/&flow=xtls-rprx-vision&sid=f430927d&alpn=h3,h2,http/1.1#@SiNAVM-trojan-135
+trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=tcp&sni=yandex.ru&alpn=h3,h2,http/1.1&encryption=none&host=TUEAF&fp=chrome&pbk=oFsSJnBttCg0nHwQl8srzne1W&headerType=none&spx=/&sid=67ae159415a35eaa#@SiNAVM-trojan-139
 trojan://T@_WvT8Ho@LW%w_,@nop-55q.pages.dev:2053?path=/trGPZDfetEwuO25SAs&security=tls&host=NOp-55q.pAgEs.dEv&type=ws&sni=NOp-55q.pAgEs.dEv#%5BOpenRay%5D%20Dynamic-5
 trojan://VPmCIAvcdW@116.203.94.200:30000?security=tls&type=tcp&headerType=none#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🌐服务器96

@@ -27,7 +27,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?encryption=none&s
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-14
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.81:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-149
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.228:8880?security=&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%2022
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.35:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-147
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.137:8880?security=&encryption=none&type=grpc#France%F0%9F%87%AB%F0%9F%87%B7
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638958447451238079.yasuj-drc-tusabl.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-136
@@ -64,7 +63,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?encryption=non
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-14
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AFR
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.81:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-149
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.228:8880?security=&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%2022
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.35:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-147
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.137:8880?security=&encryption=none&type=grpc#France%F0%9F%87%AB%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958447451238079.yasuj-drc-tusabl.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-136
