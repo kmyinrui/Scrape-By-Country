@@ -1,5 +1,3 @@
-ss://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&sid=816473be23c2#%3E%3E%40oneclickvpnkeys%3A%3AIS
-ss://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997?security=reality&encryption=none&pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&headerType=none&fp=chrome&spx=%2F%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%3Fed&type=tcp&sni=yahoo.com&sid=816473be23c2#%3E%3E%40free4allVPN%3A%3AIS
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.149:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B8%20IS-19
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.180:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B8%20IS-13
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.207:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B8%20IS-9
@@ -9,7 +7,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.211:8880?encryption=none&se
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.213:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B8%20IS-18
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.214:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B8%20IS-17
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.215:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B8%20IS-8
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.216:8880/?type=grpc&encryption=none&flow=#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B8%20IS-3
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.219:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B8%20IS-14
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.220:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B8%20IS-6
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.225:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B8%20IS-15
@@ -17,8 +14,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.228:8880?encryption=none&se
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.232:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B8%20IS-10
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.233:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B8%20IS-20
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.238:8880/?type=grpc&encryption=none&flow=#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B8%20IS-4
-vless://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&sid=816473be23c2#%3E%3E%40oneclickvpnkeys%3A%3AIS
-vless://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997?security=reality&encryption=none&pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&headerType=none&fp=chrome&spx=%2F%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%3Fed&type=tcp&sni=yahoo.com&sid=816473be23c2#%3E%3E%40free4allVPN%3A%3AIS
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.149:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B8%20IS-19
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.180:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B8%20IS-13
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.207:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B8%20IS-9
@@ -28,7 +23,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.211:8880?encryption=none
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.213:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B8%20IS-18
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.214:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B8%20IS-17
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.215:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B8%20IS-8
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.216:8880/?type=grpc&encryption=none&flow=#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B8%20IS-3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.219:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B8%20IS-14
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.220:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B8%20IS-6
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.225:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B8%20IS-15
