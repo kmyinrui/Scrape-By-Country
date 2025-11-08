@@ -1,2 +1,0 @@
-ss://7556317c-dff6-46e8-ad29-b408f2a6456e@5.10.214.253:2096?path=%2FTelegram%20%40freecodes%20%2F%3Fed%3D2560security%3Dtls&security=tls&encryption=none&host=vless.muzheng.top&fp=chrome&type=ws&sni=vless.muzheng.top#Armenia%F0%9F%87%A6%F0%9F%87%B2
-vless://7556317c-dff6-46e8-ad29-b408f2a6456e@5.10.214.253:2096?path=%2FTelegram%20%40freecodes%20%2F%3Fed%3D2560security%3Dtls&security=tls&encryption=none&host=vless.muzheng.top&fp=chrome&type=ws&sni=vless.muzheng.top#Armenia%F0%9F%87%A6%F0%9F%87%B2
