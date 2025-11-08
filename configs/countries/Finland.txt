@@ -1,5 +1,7 @@
 ss://3ebac9fe-b632-473f-d3da-41a3ef82cf4f@37.27.215.232:2089?path=%2F&security=&encryption=none&host=quic.cloud&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland
+ss://792638c8-8eb5-4128-b838-0e9ff584d51f@axe.soyet2j.ir:2087/?type=ws&encryption=none&flow=&host=latte.gejeh683bm.ir&path=%2Findex.html%3Fed%3D2560&security=tls&sni=latte.gejeh683bm.ir.#%25F0%259F%2590%25B866%2540oneclickvpnkeys%2520%253E%253E%2540oneclickvpnkeys%3A%3AFI
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU21xYTl1SzlPbzFlaXZQeVhpQUg4@83.147.216.70:64519#%F0%9F%87%AB%F0%9F%87%AEFinland%20%2329219%20%2F%20OutlineKeys.com
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng%3D@65.21.243.22:31348#%F0%9F%87%AB%F0%9F%87%AEFinland%20%2328009%20%2F%20OutlineKeys.com
 vless://3ebac9fe-b632-473f-d3da-41a3ef82cf4f@37.27.215.232:2089?path=%2F&security=&encryption=none&host=quic.cloud&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://792638c8-8eb5-4128-b838-0e9ff584d51f@axe.soyet2j.ir:2087/?type=ws&encryption=none&flow=&host=latte.gejeh683bm.ir&path=%2Findex.html%3Fed%3D2560&security=tls&sni=latte.gejeh683bm.ir.#%25F0%259F%2590%25B866%2540oneclickvpnkeys%2520%253E%253E%2540oneclickvpnkeys%3A%3AFI
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh64gVk1FU1Mt5pyq55+lPuiKrOWFsC1ORuino+mUgeiKrOWFsOWcsOWMuumdnuiHquWItuWJpy1DaGF0R1BULVRpa1Rvay1Zb3VUdWJlLTEwNC4xNy4yMjMuMTg6ODAiLCJhZGQiOiIxMDQuMTcuMjIzLjE4IiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImZmMmQxN2M2LTBkOTYtNDgwMS1hMjcwLTlkYmE4MzM0ZjhjNiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9

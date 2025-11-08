@@ -1,2 +1,0 @@
-ss://ba8b9f54-77c5-447c-baf8-e2d4e2a412ae@gr.sephost.de:8023?security=reality&type=tcp&headerType=none&path=&host=&sni=stackoverflow.com&fp=firefox&pbk=QHg_sq-uc2VPgb4qOTORPT2WFwnsEBmAdmFfywhBhVs&sid=0ae86db71378173b#%F0%9F%87%A9%F0%9F%87%AA%20GE%20%28Everything%20%F0%9F%98%8D%29
-vless://ba8b9f54-77c5-447c-baf8-e2d4e2a412ae@gr.sephost.de:8023?security=reality&type=tcp&headerType=none&path=&host=&sni=stackoverflow.com&fp=firefox&pbk=QHg_sq-uc2VPgb4qOTORPT2WFwnsEBmAdmFfywhBhVs&sid=0ae86db71378173b#%F0%9F%87%A9%F0%9F%87%AA%20GE%20%28Everything%20%F0%9F%98%8D%29
