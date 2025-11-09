@@ -8,7 +8,6 @@ ss://c5d02fbd-13d9-4545-a70a-a987e5af020e@m35a.vip784.com:33801?security=none&ty
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.150:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-249
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.183:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-146
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.152:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-162
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.164:8880/?type=grpc&encryption=none&flow=#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-282
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.167:8880?mode=gun&security=&encryption=none&type=grpc#France%F0%9F%87%AB%F0%9F%87%B7
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.176:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-143
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.178:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-270
@@ -27,7 +26,6 @@ vless://c5d02fbd-13d9-4545-a70a-a987e5af020e@m35a.vip784.com:33801?security=none
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.150:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-249
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.183:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-146
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.152:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-162
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.164:8880/?type=grpc&encryption=none&flow=#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-282
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.167:8880?mode=gun&security=&encryption=none&type=grpc#France%F0%9F%87%AB%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.176:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-143
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.178:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-270
