@@ -20,8 +20,10 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.176:8880?encryption=none&s
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.178:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-270
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.195:8880?security=&fp=chrome&type=grpc&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-292
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.81:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-149
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638958447451232006.yasuj-drc-tusabl.info:8880?type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-466
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638958853652473098.brussels-blkaft-aaao.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-118
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638959700852270917.esfahan-blkaft-aaao.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-88
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638970192452860730.helsinki-blkaft-aaax.info:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-470
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638970192452860730.helsinki-blkaft-aaax.info:8880?mode=gun&security=&encryption=none&type=grpc#France%F0%9F%87%AB%F0%9F%87%B7
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638970953252602111.dublin-blkaft-aaax.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-83
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638972921472573017.abadan-blkaft-aaba.info:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-396
@@ -46,8 +48,10 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.176:8880?encryption=non
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.178:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-270
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.195:8880?security=&fp=chrome&type=grpc&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-292
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.81:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-149
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958447451232006.yasuj-drc-tusabl.info:8880?type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-466
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958853652473098.brussels-blkaft-aaao.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-118
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959700852270917.esfahan-blkaft-aaao.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-88
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638970192452860730.helsinki-blkaft-aaax.info:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-470
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638970192452860730.helsinki-blkaft-aaax.info:8880?mode=gun&security=&encryption=none&type=grpc#France%F0%9F%87%AB%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638970953252602111.dublin-blkaft-aaax.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-83
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638972921472573017.abadan-blkaft-aaba.info:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-396

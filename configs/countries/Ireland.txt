@@ -1,3 +1,5 @@
+ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@34.244.215.81:59483?encryption=none&type=grpc#Ireland%2021%20dailyv2ry
 ss://6c0472bc-82df-449e-90bd-2f91c6a46402@aws-linker11.eovay.com:58711?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=mGUMd-M8IUQviU38YnQgUKq1kR7uVwu0V8ZbUxbjOCs&sid=da37b051&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%AA%20%E7%88%B1%E5%B0%94%E5%85%B0
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@34.244.215.81:59483?encryption=none&type=grpc#Ireland%2021%20dailyv2ry
 vless://6c0472bc-82df-449e-90bd-2f91c6a46402@aws-linker11.eovay.com:58711?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=mGUMd-M8IUQviU38YnQgUKq1kR7uVwu0V8ZbUxbjOCs&sid=da37b051&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%AA%20%E7%88%B1%E5%B0%94%E5%85%B0
 vmess://eyJhZGQiOiIzOC4xODAuMjEuODgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InF1aWMuY2xvdWQiLCJpZCI6IjBjMDAwYmFmLTZiMTgtNGU2YS1kM2NiLTU1OWZkYTY5OTViYSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiNDU1NTQiLCJwcyI6IvCfh67wn4eqIElyZWxhbmQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
