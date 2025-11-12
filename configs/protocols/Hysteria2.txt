@@ -1,10 +1,8 @@
-hy2://49bfe308-0c0f-4770-bd81-bb2ff8efa03a@151.244.214.19:30000/?insecure=1&insecure=1#@SiNAVM-vless-44
-hy2://7a2512b4-09ee-11f0-8d46-f23c9313b177@8b56a93d-t58800-tcm6ys-deip.la.shifen.uk:443/?mport=20000-50000&security=tls&pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo&sid=9d36b8589fa524fd&host=cm.yumige.dpdns.org&path=/getupdates&insecure=1#@SiNAVM-vless-39
+hy2://7a2512b4-09ee-11f0-8d46-f23c9313b177@8b56a93d-t58800-tcm6ys-deip.la.shifen.uk:443/?mport=20000-50000&security=tls&pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo&sid=9d36b8589fa524fd&host=cm.yumige.dpdns.org&path=/getupdates&insecure=1#@SiNAVM-vless-35
 hy2://9772ecf2-6732-4bfb-a8b1-f48af577c76c@113.192.61.19:63979/?insecure=1&sni=www.bing.com#%3E%3E%40ShadowsocksM%3A%3AXX
 hy2://9ec830fd-79da-4706-a964-cb227d7198db@135.148.82.248:33333/?insecure=1#%3E%3E%40ShadowsocksM%3A%3AUS
-hy2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000/?insecure=1&sni=gavazn.55994421.xyz&fp=chrome&security=reality&pbk=DHIEcMf3BTEwQ&sid=f50f5a&insecure=1&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#@SiNAVM-vless-43
-hy2://YwuvGJk36B@81.168.83.89:2083/?insecure=1&obfs=salamander&obfs-password=khameniiko@smad@rettrojan://a5a3350e-6ea2-4e12-ae84-20db849ce1fc@94.131.114.50:81/?type=ws&path=/news#@SiNAVM-vless-34
-hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1#@SiNAVM-vless-33
+hy2://YwuvGJk36B@81.168.83.89:2083/?insecure=1&obfs=salamander&obfs-password=khameniiko@smad@rettrojan://a5a3350e-6ea2-4e12-ae84-20db849ce1fc@94.131.114.50:81/?type=ws&path=/news#@SiNAVM-vless-30
+hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1#@SiNAVM-vless-29
 hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=%F0%9F%94%92#%3E%3E%40oneclickvpnkeys%3A%3AXX
 hy2://dongtaiwang.com@51.158.218.2:50066/?insecure=1&sni=www.bing.com#%3E%3E%40oneclickvpnkeys%3A%3ANL
 hysteria2://%40azadi_az_inja_migzare@all-v4.dgi000.store:443?insecure=0&sni=all-v4.dgi000.store&obfs=salamander&obfs-password=@azadi_az_inja_migzare#%40V2rayNG3%20%2310
