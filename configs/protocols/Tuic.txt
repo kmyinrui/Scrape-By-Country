@@ -1,2 +1,0 @@
-tuic://4741863d-e3ac-4b9d-8185-466f437b3fa8:4741863d-e3ac-4b9d-8185-466f437b3fa8@hktuic01.yydzx.xyz:12578?congestion_control=bbr&sni=hktuic01.yydzx.xyz#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
-tuic://4741863d-e3ac-4b9d-8185-466f437b3fa8:4741863d-e3ac-4b9d-8185-466f437b3fa8@hktuic01.yydzx.xyz:12955?congestion_control=bbr&sni=hktuic01.yydzx.xyz#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD

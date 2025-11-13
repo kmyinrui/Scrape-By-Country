@@ -7,3 +7,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.119:8880?encryption=none&
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.27:8880?encryption=none&security=none&type=grpc#%E4%B9%8C%E5%85%8B%E5%85%B0
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.183:8880?encryption=none&security=none&type=grpc#%E4%B9%8C%E5%85%8B%E5%85%B0
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.22:8880?encryption=none&security=none&type=grpc#%E4%B9%8C%E5%85%8B%E5%85%B0
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh6Yg5LmM5YWL5YWwIFYyQ1JPU1MuQ09NIiwiYWRkIjoiMi41OS42Mi42MyIsInBvcnQiOiIxOTM2NSIsInR5cGUiOiJub25lIiwiaWQiOiI5NTgzYTY0Ny1iMGJhLTQ3YjAtZDRiMC00ZTEyYTAyMDFkNjciLCJhaWQiOiIwIiwibmV0Ijoibm9uZSIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
