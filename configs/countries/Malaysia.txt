@@ -1,11 +1,4 @@
 ss://297df885-9161-46cb-94d4-90a8a8489645@45.128.54.17:443?path=%2Fdahuqpws&security=tls&encryption=none&type=ws#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia
-ss://7df5e8d1-5c3f-44d7-b62d-0f8b40d875ea@vpn-srv-3.circlevpn.net:35512?type=tcp&alpn=h3%252Ch2%252Chttp%252F1.1&fp=chrome&security=tls#%253E%253E%2540DailyV2RY%3A%3AMY
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.60.192.176:990#%253E%253E%2540OutlineVpnOfficial%3A%3AMY
-ss://b93b22f2-ce13-43dd-827b-37eb2a93f661@vpn-srv-3.circlevpn.net:35512?type=tcp&alpn=h3%252Ch2%252Chttp%252F1.1&fp=chrome&security=tls#%253E%253E%2540DailyV2RY%3A%3AMY
-ss://f3db918d-4ced-4468-a716-a66c7d47e334@vpn-srv-3.circlevpn.net:35512?type=tcp&alpn=h3%252Ch2%252Chttp%252F1.1&fp=chrome&security=tls#%253E%253E%2540DailyV2RY%3A%3AMY
 vless://297df885-9161-46cb-94d4-90a8a8489645@45.128.54.17:443?path=%2Fdahuqpws&security=tls&encryption=none&type=ws#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia
-vless://7df5e8d1-5c3f-44d7-b62d-0f8b40d875ea@vpn-srv-3.circlevpn.net:35512?type=tcp&alpn=h3%252Ch2%252Chttp%252F1.1&fp=chrome&security=tls#%253E%253E%2540DailyV2RY%3A%3AMY
-vless://b93b22f2-ce13-43dd-827b-37eb2a93f661@vpn-srv-3.circlevpn.net:35512?type=tcp&alpn=h3%252Ch2%252Chttp%252F1.1&fp=chrome&security=tls#%253E%253E%2540DailyV2RY%3A%3AMY
-vless://f3db918d-4ced-4468-a716-a66c7d47e334@vpn-srv-3.circlevpn.net:35512?type=tcp&alpn=h3%252Ch2%252Chttp%252F1.1&fp=chrome&security=tls#%253E%253E%2540DailyV2RY%3A%3AMY
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1NWSIsImFkZCI6IjQ3LjI1MC45NS41MyIsInBvcnQiOiI0OTA5NiIsImlkIjoiMjcwOTk5MGItNmVhZi00YTgxLWExMzAtYWUzMGJjNTc5ZGM0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiJcL2Fya2k/ZWQ9MjA0OCIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vmess://eyJhZGQiOiI0Ny4yNTAuOTUuNTMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOWU3NjQ0M2EtNWRiMS00YTk4LThhYzktMGI4ZTY5Yzg0ZmFmIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9hcmtpP2VkPTIwNDgiLCJwb3J0IjoiMjUzMTMiLCJwcyI6Ilx1ZDgzY1x1ZGRmMlx1ZDgzY1x1ZGRmZVtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtTVkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
