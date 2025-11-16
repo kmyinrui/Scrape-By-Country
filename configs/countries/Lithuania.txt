@@ -1,2 +1,4 @@
 ss://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.131.13.163:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%B9%20LT-2
+ss://df5fc3f7-6b01-489a-a73c-e1297b14a3dd@lt.monkeyisland.life:443?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&path=&host=&sni=lt.monkeyisland.life&fp=chrome&pbk=aILMLxhAsgJvx7TY3EsxOdmIc1uB0V7aJVIXaKYPPk4&sid=05a8b9980e65114c#%F0%9F%87%B1%F0%9F%87%B9%20%D0%9B%D0%B8%D1%82%D0%B2%D0%B0
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.131.13.163:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%B9%20LT-2
+vless://df5fc3f7-6b01-489a-a73c-e1297b14a3dd@lt.monkeyisland.life:443?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&path=&host=&sni=lt.monkeyisland.life&fp=chrome&pbk=aILMLxhAsgJvx7TY3EsxOdmIc1uB0V7aJVIXaKYPPk4&sid=05a8b9980e65114c#%F0%9F%87%B1%F0%9F%87%B9%20%D0%9B%D0%B8%D1%82%D0%B2%D0%B0
