@@ -15,6 +15,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSR3k1dGxtOGJBUWRNNXpjOVhGRjBZ@89.185.84.185:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMHJBTFY4YnZqYVJIRDFoZzhTbXVO@89.185.84.185:443#%253E%253E%2540FreakConfig%3A%3AGB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRzZ2RlpDdkltNzQzOUNGUjZMZW5K@78.129.140.11:443#%F0%9F%87%AC%F0%9F%87%A7%20UK%20%40OutlineVPN_ru
 ss://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721/?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d#%253E%253E%2540oneclickvpnkeys%3A%3AGB
+ss://c14ab4eb-178f-47ca-a597-4eb585bab261@gbr-0001-xr.packet-drop-society.net:443?security=reality&encryption=none&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=f79448a30d#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%40confegraigan
+ss://c14ab4eb-178f-47ca-a597-4eb585bab261@gbr-0001-xr.packet-drop-society.net:443?security=reality&encryption=none&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=f79448a30d#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%40confegraigan```
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-347
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.250:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-341
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.11:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-342
@@ -24,6 +26,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.108:8880?mode=gun&security=
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.144:8880?type=grpc&path=/#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-299
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.80:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-345
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359327481.birjand-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-283
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342840960.esfahan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-379
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686410316.lahijan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-350
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638955452903724777.malayer-drc-tusaas.info:8880?type=grpc#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-334
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638955452903727461.malayer-drc-tusaas.info:8880?type=grpc#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-167
@@ -44,6 +47,8 @@ vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443/?type=
 vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=&encryption=none&host=Telewebion.com&headerType=http&type=tcp#%253E%253E%2540FreakConfig%3A%3AGB
 vless://867b5935-5109-4bae-aa38-52d02323f1a8@london.fonixapp.org:32876?encryption=none&flow=xtls-rprx-vision&security=reality&sni=smallpdf.com&fp=firefox&pbk=ZSkoegcoGFKmN5VZBRTMDRfN9IZQs4xotcqNNhYCzRc&sid=864f&allowInsecure=1&type=tcp&headerType=none#%E8%8B%B1%E5%9B%BD
 vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721/?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d#%253E%253E%2540oneclickvpnkeys%3A%3AGB
+vless://c14ab4eb-178f-47ca-a597-4eb585bab261@gbr-0001-xr.packet-drop-society.net:443?security=reality&encryption=none&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=f79448a30d#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%40confegraigan
+vless://c14ab4eb-178f-47ca-a597-4eb585bab261@gbr-0001-xr.packet-drop-society.net:443?security=reality&encryption=none&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=f79448a30d#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%40confegraigan```
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-347
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.250:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-341
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.11:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-342
@@ -53,6 +58,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.108:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.144:8880?type=grpc&path=/#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-299
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.80:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-345
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359327481.birjand-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-283
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342840960.esfahan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-379
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686410316.lahijan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-350
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955452903724777.malayer-drc-tusaas.info:8880?type=grpc#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-334
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955452903727461.malayer-drc-tusaas.info:8880?type=grpc#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-167
