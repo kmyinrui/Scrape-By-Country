@@ -1,2 +1,0 @@
-tuic://e715f8e2-664c-4f6e-bb71-56d967cebb96:e715f8e2-664c-4f6e-bb71-56d967cebb96@jptuic01.yydzx.xyz:14958?alpn=h3&congestion_control=bbr&sni=jptuic01.yydzx.xyz#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
-tuic://e715f8e2-664c-4f6e-bb71-56d967cebb96:e715f8e2-664c-4f6e-bb71-56d967cebb96@twtuic01.yydzx.xyz:15968?alpn=h3&congestion_control=bbr&sni=twtuic01.yydzx.xyz#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
