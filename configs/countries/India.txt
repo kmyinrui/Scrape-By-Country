@@ -1,8 +1,10 @@
 hy2://338ce171-d764-4610-8fd5-6688b0d321f0@144.24.101.176:30102/?insecure=1#%253E%253E%2540oneclickvpnkeys%3A%3AIN
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.24.101.176:30102?security=tls&insecure=1#%253E%253E%2540ShadowsocksM%3A%3AIN
+ss://61f3b51e-d721-4431-9aa0-872f92812bf0@india-02.ptu.ink:443?security=reality&encryption=none&pbk=PfIheTo6n2S5RYNoRmqHpe6X7dVpgOMCDcsfyU9rTHA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=1591dca1507a2331#%F0%9F%87%AE%F0%9F%87%B3%7C%E2%80%A2India%20%7C%20%40confegraiagn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.92:57456#%253E%253E%2540ShadowsocksM%3A%3AIN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.92:57456#%F0%9F%87%AE%F0%9F%87%B3India%20%2329682%20%2F%20OutlineKeys.com
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@103.97.203.227:990#%253E%253E%2540OutlineVpnOfficial%3A%3AIN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#%253E%253E%2540ShadowsocksM%3A%3AIN
 ss://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355/?type=tcp&encryption=none#%253E%253E%2540ShadowsocksM%3A%3AIN
+vless://61f3b51e-d721-4431-9aa0-872f92812bf0@india-02.ptu.ink:443?security=reality&encryption=none&pbk=PfIheTo6n2S5RYNoRmqHpe6X7dVpgOMCDcsfyU9rTHA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=1591dca1507a2331#%F0%9F%87%AE%F0%9F%87%B3%7C%E2%80%A2India%20%7C%20%40confegraiagn
 vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355/?type=tcp&encryption=none#%253E%253E%2540ShadowsocksM%3A%3AIN
