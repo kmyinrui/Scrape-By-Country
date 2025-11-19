@@ -1,5 +1,4 @@
 ss://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24467?encryption=none&security=none&type=ws&path=%2F#Channel%20id%3A%20%40ShadowProxy66
-ss://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
 ss://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967?encryption=none&security=none&type=tcp&headerType=none#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B8%F0%9F%87%AC-Singapore-1291ms-PT%20Herza%20Digital%20Indonesia
 ss://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&security=none&type=ws&host=google.com&path=%2Fhttp%23Telegram%40V2ray_Alpha%2F%3Fed%3D2560#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.115:8880?encryption=none&security=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%20
@@ -7,7 +6,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.5:8880?encryption=none&secu
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.253:8880?encryption=none&security=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.41:8880?encryption=none&security=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%20
 vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24467?encryption=none&security=none&type=ws&path=%2F#Channel%20id%3A%20%40ShadowProxy66
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967?encryption=none&security=none&type=tcp&headerType=none#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B8%F0%9F%87%AC-Singapore-1291ms-PT%20Herza%20Digital%20Indonesia
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&security=none&type=ws&host=google.com&path=%2Fhttp%23Telegram%40V2ray_Alpha%2F%3Fed%3D2560#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.115:8880?encryption=none&security=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%20

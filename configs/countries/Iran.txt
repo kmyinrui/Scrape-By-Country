@@ -18,6 +18,9 @@ hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@dir.cybsecguru.com:35000?insecu
 hysteria2://9ec830fd-79da-4706-a964-cb227d7198db@135.148.82.248:33333?insecure=1#MCI-IR--%40V2rayAlpha-7
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?insecure=1&sni=hl01.mistea.top#MCI-IR--%40V2rayAlpha-9
 ss://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&encryption=none&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i2pd.website&sid=55e6af1a35e64a98#%253E%253E%2540vmessiran%3A%3AIL
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.12:8880?mode=gun&security=&encryption=none&type=grpc#%F0%9F%8C%8D%20%7C%20Alpha%20Creator%3A%20%40IRAN_V2RAY1
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.49:8880?mode=gun&security=&encryption=none&type=grpc#%F0%9F%8C%8D%20%7C%20Alpha%20Creator%3A%20%40IRAN_V2RAY1
+trojan://09e71e3b-1f9f-44ab-9a10-02e0e10e2f05@37.202.200.19:25010?allowInsecure=0&sni=37.202.200.19#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20V2CROSS.COM
 vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&encryption=none&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i2pd.website&sid=55e6af1a35e64a98#%253E%253E%2540vmessiran%3A%3AIL
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.12:8880?mode=gun&security=&encryption=none&type=grpc#%F0%9F%8C%8D%20%7C%20Alpha%20Creator%3A%20%40IRAN_V2RAY1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.49:8880?mode=gun&security=&encryption=none&type=grpc#%F0%9F%8C%8D%20%7C%20Alpha%20Creator%3A%20%40IRAN_V2RAY1
