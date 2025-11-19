@@ -1,4 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuN25xS2s4RHIxeWNzWktkNXE1aHVXZENzYnhWUUVhNE1jZ0xtb2hyNW9lVEFSWGp4NDlqTEZHNEVmcTRGR043TWRBYlZhUVVaZnAxWTRuQ1VDTXp1cVR4cWR3QlExOVQ%3D@94.131.22.134:40565#%F0%9F%87%AA%F0%9F%87%B8Spain%20%2325848%20%2F%20OutlineKeys.com
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.134:8880?type=grpc&encryption=none&flow=#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-13
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.156:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-15
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.134:8880?type=grpc&encryption=none&flow=#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-13
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.156:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-15
 vmess://eyJhZGQiOiIyMDguNzYuMjIzLjIxOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhMDU5NmJhNi03MmEzLTQzNjYtODk5Mi03NzA4OGRhNjViZDgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI3MDkyIiwicHMiOiI+PkBvbmVjbGlja3ZwbmtleXM6OkVTOjpFUzo6RVMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
