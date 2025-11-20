@@ -1,10 +1,6 @@
 hy2://338ce171-d764-4610-8fd5-6688b0d321f0@144.24.101.176:30102/?insecure=1#%253E%253E%2540oneclickvpnkeys%3A%3AIN
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.24.101.176:30102?security=tls&insecure=1#%253E%253E%2540ShadowsocksM%3A%3AIN
-ss://6c446fb0-2fb3-4558-abcf-e497438ef091@telegram-armanstore2.dynv6.net:53132?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20More%20Config%20in%20T.me%2FMigaV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.92:57456#%253E%253E%2540ShadowsocksM%3A%3AIN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.92:57456#%F0%9F%87%AE%F0%9F%87%B3India%20%2329682%20%2F%20OutlineKeys.com
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@103.97.203.227:990#%253E%253E%2540OutlineVpnOfficial%3A%3AIN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#%253E%253E%2540ShadowsocksM%3A%3AIN
-ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@92.118.232.28:443?encryption=none&security=tls&type=ws&path=%2F#%F0%9F%94%92%20More%20Config%20in%20T.me%2FMigaV2ray
-vless://6c446fb0-2fb3-4558-abcf-e497438ef091@telegram-armanstore2.dynv6.net:53132?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20More%20Config%20in%20T.me%2FMigaV2ray
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@92.118.232.28:443?encryption=none&security=tls&type=ws&path=%2F#%F0%9F%94%92%20More%20Config%20in%20T.me%2FMigaV2ray
