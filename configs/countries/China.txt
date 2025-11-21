@@ -1,2 +1,1 @@
-trojan://BxceQaOe@219.79.165.55:443?allowInsecure=1&sni=t.me%2Fripaojiedian#_CN_%E4%B8%AD%E5%9B%BD
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@58.152.110.206:443?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD

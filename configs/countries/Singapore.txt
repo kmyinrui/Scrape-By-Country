@@ -15,11 +15,12 @@ trojan://aWgKDJmn2q.hv%3D51@139.180.143.191:10293/?type=tcp&security=tls&sni=zmb
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.106.144:5553?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.106.144:5553?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.106.144:5553?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40stairnode
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.106.144:5553?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.106.144:5553?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13%20133.0KB%2Fs
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.116.227:127?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.138.24:127?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.138.24:127?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.138.24:127?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40stairnode
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.138.24:127?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13%20152.8KB%2Fs
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.138.24:127?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12%20151.8KB%2Fs
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.240.91:5553?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#%253E%253E%2540VmessProtocol%3A%3ASG
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none#%253E%253E%2540ShadowsocksM%3A%3ASG
