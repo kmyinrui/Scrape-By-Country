@@ -12,3 +12,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.115:8880?encryption=none
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.5:8880?encryption=none&security=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.253:8880?encryption=none&security=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.41:8880?encryption=none&security=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%20
+vmess://eyJ2IjoiMiIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYg8J+Hr/Cfh7UiLCJhZGQiOiJuMTc0NDQ1NDQ5OC5saWU1ZC5jeW91IiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJjZDI2YWJjYS0wZDg0LTQzZDAtOGY2OS05YzExNDNiNTY5ZTkiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJuMTc0NDQ1NDQ5OC5saWU1ZC5jeW91IiwidGxzIjoidGxzIn0=
