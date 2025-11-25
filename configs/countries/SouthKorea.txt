@@ -1,4 +1,2 @@
-ss://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@211.252.50.74:30004?&security=tls&fp=random&sni=ak.suoni.nyc.mn&type=ws&headerType=none&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo#%F0%9F%87%B0%F0%9F%87%B7_KR_%E9%9F%A9%E5%9B%BD
 trojan://WmFcbQ1O%3DhAJd-i2@158.247.206.18:15974/?type=tcp&security=tls&sni=kszfviehlrb.zwodhfgqaps.click#%253E%253E%2540oneclickvpnkeys%3A%3AKR
-vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@211.252.50.74:30004?&security=tls&fp=random&sni=ak.suoni.nyc.mn&type=ws&headerType=none&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo#%F0%9F%87%B0%F0%9F%87%B7_KR_%E9%9F%A9%E5%9B%BD
 vmess://eyJhZGQiOiIxNDYuNTYuMTEyLjExMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlN2MzMDJmMy05MGQ2LTQyZGQtOWQ3ZC05NGEzNjgzYTM3MDciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6Ijg4ODgiLCJwcyI6Ij4+QFNoYWRvd3NvY2tzTTo6S1IiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
