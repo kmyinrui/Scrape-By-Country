@@ -1,2 +1,0 @@
-ss://f88bf9b6-6e89-4add-bcbe-26655fd530bc@104.244.78.95:2083?path=%2FFree-VPN-CF-Geo-Project%2F104.244.78.95%3D2083&security=tls&encryption=none&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%B1%F0%9F%87%BALU%2C%20VLESS
-vless://f88bf9b6-6e89-4add-bcbe-26655fd530bc@104.244.78.95:2083?path=%2FFree-VPN-CF-Geo-Project%2F104.244.78.95%3D2083&security=tls&encryption=none&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%B1%F0%9F%87%BALU%2C%20VLESS
