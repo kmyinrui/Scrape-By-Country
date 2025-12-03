@@ -269,6 +269,10 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, g
 | 协议 | 数量 | 下载链接 |
 |:-------:|:-----:|:------------:|
 """
+    # 添加汇总行，显示AllProtocols.txt的信息
+    all_protocols_link = f"{raw_github_base_url_protocols}/AllProtocols.txt"
+    md_content += f"| **汇总** | **{total_configs}** | [`AllProtocols.txt`]({all_protocols_link}) |\n"
+    
     if protocol_counts:
         for category_name, count in sorted(protocol_counts.items()):
             file_link = f"{raw_github_base_url_protocols}/{category_name}.txt"
