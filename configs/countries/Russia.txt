@@ -10,9 +10,7 @@ ss://88b9a025-929f-582f-a10c-1e87718cac3f@109.205.56.37:5000/?type=ws&encryption
 ss://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20X
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2SDhRMU9YS1pST0pWeGRlT3Y2bG83@81.90.31.219:443#%F0%9F%87%B7%F0%9F%87%BARussia%20%2329221%20%2F%20OutlineKeys.com
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ%3D%3D@45.144.31.24:443#%253E%253E%2540DailyV2RY%3A%3ARU
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#%253E%253E%2540ShadowsocksM%3A%3ARU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#%F0%9F%87%B7%F0%9F%87%BARussia%20%2329161%20%2F%20OutlineKeys.com
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WUxpRTBMT3NyMEN3SWpiaUNTTHky@147.45.235.63:49115#%253E%253E%2540V2RAY_VMESS_free%3A%3ARU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WUxpRTBMT3NyMEN3SWpiaUNTTHky@147.45.235.63:49115#RU%20SS-76%40free-nodes
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#%253E%253E%2540DailyV2RY%3A%3ARU
 ss://b127d2d2-277a-491e-bf80-2e8688fa85e2@147.45.159.152:443?security=reality&encryption=none&pbk=bKTT2iUUThS1Hqxmo48vUCkLYdmTQw_mnrtFg69ZJlg&headerType=none&fp=chrome&spx=/HzWv5jd9UnbYvbd&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=25#RU%20VLESS-27%40free-nodes
