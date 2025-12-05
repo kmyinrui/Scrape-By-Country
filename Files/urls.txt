@@ -29,7 +29,3 @@ https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/m
 https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt
 https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt
 https://raw.githubusercontent.com/YFTree/ClashNodes/refs/heads/main/V2Ray/4.txt
-https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodev2ray.txt
-https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodefree.txt
-https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/ndnode.txt
-https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/clashmeta.txt
