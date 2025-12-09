@@ -1,2 +1,0 @@
-ss://dc34e596-701c-4054-b3f9-5b9cc4274031@dl79.sulduznet.ir:35029/?type=tcp&security=reality&pbk=pS1czo_t8PCQta3IAKrIh-j2_NrOYtGRnoiPTD7ZL1M&fp=firefox&sni=refersion.com&sid=9d0424d2&spx=%2F#FI2%F0%9F%87%AB%F0%9F%87%AE-tl:@ERFIEF
-vless://dc34e596-701c-4054-b3f9-5b9cc4274031@dl79.sulduznet.ir:35029/?type=tcp&security=reality&pbk=pS1czo_t8PCQta3IAKrIh-j2_NrOYtGRnoiPTD7ZL1M&fp=firefox&sni=refersion.com&sid=9d0424d2&spx=%2F#FI2%F0%9F%87%AB%F0%9F%87%AE-tl:@ERFIEF
