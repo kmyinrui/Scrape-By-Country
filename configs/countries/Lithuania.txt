@@ -1,2 +1,0 @@
-hysteria2://thunder_speed@01.lithuania.xxedenxx.work:25643?insecure=1#Lithuania-HY-101-01-@ThunderConfig
-hysteria2://thunder_speed@91.244.197.11:25643?insecure=1#Lithuania-@ThunderConfig```

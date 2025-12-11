@@ -1,2 +1,0 @@
-ss://0f813c3d-8287-4825-a928-8ab3200859ce@138.68.81.100:59662?type=tcp&encryption=none&security=none#Mr-6m2hxqvo
-vless://0f813c3d-8287-4825-a928-8ab3200859ce@138.68.81.100:59662?type=tcp&encryption=none&security=none#Mr-6m2hxqvo
