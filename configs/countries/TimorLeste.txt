@@ -1,2 +1,2 @@
-ss://fb12032f-4149-4609-9688-f96e747ea19c@fast1.sulduznet.ir:80/?type=ws&path=%2F%3Fed%3D1024&host=www.urmia_online.org&security=none#P-CDN%20%F0%9F%87%A9%F0%9F%87%AA-cdn%20%F0%9F%87%A9%F0%9F%87%AA%20tl:@ERFIEF
-vless://fb12032f-4149-4609-9688-f96e747ea19c@fast1.sulduznet.ir:80/?type=ws&path=%2F%3Fed%3D1024&host=www.urmia_online.org&security=none#P-CDN%20%F0%9F%87%A9%F0%9F%87%AA-cdn%20%F0%9F%87%A9%F0%9F%87%AA%20tl:@ERFIEF
+ss://0a42b78a-c6d3-4cc1-a047-fff084f9f7fa@64.188.115.181:26968/?type=tcp&encryption=none&security=reality&pbk=EgoxLYZ4OrrYTBL_WzWNkY-W3w2P9aEXRkyMp6sjqD8&fp=firefox&sni=stackoverflow.com&sid=04&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA-tl:@ERFIEF
+vless://0a42b78a-c6d3-4cc1-a047-fff084f9f7fa@64.188.115.181:26968/?type=tcp&encryption=none&security=reality&pbk=EgoxLYZ4OrrYTBL_WzWNkY-W3w2P9aEXRkyMp6sjqD8&fp=firefox&sni=stackoverflow.com&sid=04&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA-tl:@ERFIEF
