@@ -1,7 +1,7 @@
 hy2://dongtaiwang.com@195.154.206.231:33880/?insecure=1&sni=apple.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
 hy2://dongtaiwang.com@62.210.99.49:40088/?insecure=1&sni=apple.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
-ss://15d114ee-c814-47c7-bd12-fab0c7a0128e@86.104.74.15:8880?path=%2F&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-2056
 ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@platform.wise.com:2053?&security=tls&fp=chrome&sni=sni.111000.dynv6.net&type=ws&headerType=none&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560#%3E%3E%40v2nodes%3A%3AFR
+ss://240026c6-3e97-4050-926d-8c2d06bd75c9@151.101.25.242:80?mode=auto&path=%2F&security=&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#%3E%3E%40configV2rayNG%3A%3AFR
 ss://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3AFR
 ss://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3AFR
 ss://82f9beee-a609-47f2-9142-14c25258dc0b@51.91.98.254:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AFR
@@ -11,8 +11,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUNzU0OEZqRUxUVGtyaG9QdnpMWjQx@62.210.88.22:4
 ss://bc66129c-bb06-0dac-a7fc-3d35b38f87e5@de.u-team.ir:5679?security=reality&type=tcp&sni=refersion.com&fp=firefox&sid=d59f3cc6a68619e8&pbk=mKzDPCMzVSSDRLoXQzPZ9bxWacxNKNj4UjRP1vXBCBA&encryption=none#FR%20VLESS-08%20%7C%20free-nodes
 ss://e0acdcf9-df32-45c6-95a6-17b0b6180de6@51.178.42.187:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20FR%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 trojan://90y2l3mu48d10uy3ibad@195.154.202.25:58290?allowInsecure=1&sni=ads.x5.ru#FR%20TROJAN-24%20%7C%20free-nodes
-vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@86.104.74.15:8880?path=%2F&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-2056
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@platform.wise.com:2053?&security=tls&fp=chrome&sni=sni.111000.dynv6.net&type=ws&headerType=none&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560#%3E%3E%40v2nodes%3A%3AFR
+vless://240026c6-3e97-4050-926d-8c2d06bd75c9@151.101.25.242:80?mode=auto&path=%2F&security=&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#%3E%3E%40configV2rayNG%3A%3AFR
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://82f9beee-a609-47f2-9142-14c25258dc0b@51.91.98.254:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AFR

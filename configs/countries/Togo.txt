@@ -1,4 +1,0 @@
-ss://77303271-b335-46ee-8701-ee8568a3bb42@servergaqflb.samanidempire.org:443?type=ws&encryption=none&path=/94bccb61&host=servergaqflb.samanidempire.org&security=tls&fp=&alpn=http%2F1.1#tg-20219226@example.com
-ss://a7ea7395-336c-4897-80c1-be2050ca44a8@serveruwofl.samanidempire.org:443?type=ws&encryption=none&path=/1ab3537d&host=serveruwofl.samanidempire.org&security=tls&fp=&alpn=http%2F1.1#tg-8042139518@example.com
-vless://77303271-b335-46ee-8701-ee8568a3bb42@servergaqflb.samanidempire.org:443?type=ws&encryption=none&path=/94bccb61&host=servergaqflb.samanidempire.org&security=tls&fp=&alpn=http%2F1.1#tg-20219226@example.com
-vless://a7ea7395-336c-4897-80c1-be2050ca44a8@serveruwofl.samanidempire.org:443?type=ws&encryption=none&path=/1ab3537d&host=serveruwofl.samanidempire.org&security=tls&fp=&alpn=http%2F1.1#tg-8042139518@example.com

@@ -1,9 +1,6 @@
 ss://3ebac9fe-b632-473f-d3da-41a3ef82cf4f@37.27.215.232:2089?path=%2F&security=&encryption=none&host=quic.cloud&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland
-ss://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=%2F&security=none&encryption=none&host=cloudflare.com&type=ws#%3E%3E%40V2RAY_VMESS_free%3A%3AFI
-ss://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@212.192.212.74:443/?type=ws&encryption=none&flow=&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=ak.suoni.nyc.mn&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
+ss://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?encryption=none&type=ws&host=cloudflare.com&path=/&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AFI
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU21xYTl1SzlPbzFlaXZQeVhpQUg4@83.147.216.70:64519#%F0%9F%87%AB%F0%9F%87%AEFinland%20%2329219%20%2F%20OutlineKeys.com
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng%3D@65.21.243.22:31348#%F0%9F%87%AB%F0%9F%87%AEFinland%20%2328009%20%2F%20OutlineKeys.com
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng@65.21.243.22:31348#%3E%3E%40v2rayNG_Matsuri%3A%3AFI
 vless://3ebac9fe-b632-473f-d3da-41a3ef82cf4f@37.27.215.232:2089?path=%2F&security=&encryption=none&host=quic.cloud&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=%2F&security=none&encryption=none&host=cloudflare.com&type=ws#%3E%3E%40V2RAY_VMESS_free%3A%3AFI
-vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@212.192.212.74:443/?type=ws&encryption=none&flow=&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=ak.suoni.nyc.mn&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?encryption=none&type=ws&host=cloudflare.com&path=/&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AFI

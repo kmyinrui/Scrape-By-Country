@@ -1,15 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Q2JRNGJyeTRvdGZpZks3b2VsNzFOYVhwUEw5cFlKYg@89.221.225.15:443#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B2%F0%9F%87%A9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBeXlhUGpuS0Z0SjZNU2RVR0cwcFdu@138.124.67.26:443#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%A6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKR3Y2MTZoTVdkamZ1WjAwallmcTdYa0JISlpyT0JyZw@87.121.162.249:443#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMUXlBVUl0YWZVbW1PM0VaWng5VWJpWDZJR3lkU0JnTA@45.12.144.18:443#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B1%F0%9F%87%BA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPTU9wVjJYQ29NT0JZc0tHQWpMRG1zS2t3NmJEcE1Pa2RWaHREMTVmd3BRcXc3MEFOOEtydzZBeUg4T2FDUT09@51.195.203.247:8443#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPeTRUc3J4ZmFKRXhVSWhsY1NxSHBWUUlXSUZNMmpaUg@5.182.37.87:443#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%B4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA@103.75.118.125:443#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AF%F0%9F%87%B5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#%3E%3E%40OutlineVpnOfficial%3A%3AID
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNVJRb3hRdVZ0bkZ2M1h4c2E4ZWRQaXNYTlBueVdLeQ@45.83.20.206:443#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A7%F0%9F%87%AA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ@213.159.66.206:443#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A7%F0%9F%87%B7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZHBNNFJPdm9MdGF5aTdOTjlESUlk@194.156.103.148:443#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A6%F0%9F%87%B2
 ss://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967?encryption=none&security=none&type=tcp&headerType=none#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B8%F0%9F%87%AC-Singapore-1291ms-PT%20Herza%20Digital%20Indonesia
 ss://d82baa81-c138-49fc-b81e-7ef0eb7ff063@us1.candyfans.win:443?path=%2Fcgunws&security=tls&encryption=none&insecure=1&host=us1.candyfans.win&type=ws&allowInsecure=1&sni=us1.candyfans.win#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AC%F0%9F%87%A7
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967?encryption=none&security=none&type=tcp&headerType=none#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B8%F0%9F%87%AC-Singapore-1291ms-PT%20Herza%20Digital%20Indonesia
