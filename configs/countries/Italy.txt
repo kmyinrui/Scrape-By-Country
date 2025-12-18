@@ -1,5 +1,8 @@
+ss://5402046c-d986-401a-aafa-e75e5dc2ec8e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxfr219.global.ssl.fastly.net&type=xhttp#%3E%3E%40prrofile_purple%3A%3AIT
 ss://73872211-fee0-4e37-ba5f-303b0b2998ab@5.253.43.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20IT%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@212.102.54.45:990#%3E%3E%40OutlineVpnOfficial%3A%3AIT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNHQ4VDdoRVlZM21EMkZuNHdueHlLNFgzNUFVenZSOA@176.126.83.121:443#%3E%3E%40OutlineVpnOfficial%3A%3AIT
+ss://YWVzLTEyOC1nY206b3d1d2R4bzJxYXRjYjQydWQ4YTY@146.70.73.213:13812#%3E%3E%40shadowproxy66%3A%3AIT
 ss://YWVzLTI1Ni1nY206ME15YWNXYlFYeUdESTc5MzlyNHBndHJSNUpsZnNKSWx4a1djUE14cE1vbz0%3D@158.180.233.56:23846#%F0%9F%87%AE%F0%9F%87%B9Italy%20%2329654%20%2F%20OutlineKeys.com
+vless://5402046c-d986-401a-aafa-e75e5dc2ec8e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxfr219.global.ssl.fastly.net&type=xhttp#%3E%3E%40prrofile_purple%3A%3AIT
 vless://73872211-fee0-4e37-ba5f-303b0b2998ab@5.253.43.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20IT%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
