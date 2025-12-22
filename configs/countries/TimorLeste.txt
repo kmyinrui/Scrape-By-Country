@@ -1,2 +1,4 @@
 ss://4bda5028-54a3-4f3c-84d3-8ad746dce6c1@64.188.115.181:8880/?type=ws&encryption=none&path=%2F%3Fed%3D2048&host=mx.amin8263.ir&security=none#tl%3A%40ERFIEF
+ss://fa5d4840-4da9-415c-9f53-f3c4fced86c9@Www.speedtest.net:8880?encryption=none&type=ws&host=mx.amin8263.ir&path=/?ed%3D2048&security=none#tl:@ERFIEF
 vless://4bda5028-54a3-4f3c-84d3-8ad746dce6c1@64.188.115.181:8880/?type=ws&encryption=none&path=%2F%3Fed%3D2048&host=mx.amin8263.ir&security=none#tl%3A%40ERFIEF
+vless://fa5d4840-4da9-415c-9f53-f3c4fced86c9@Www.speedtest.net:8880?encryption=none&type=ws&host=mx.amin8263.ir&path=/?ed%3D2048&security=none#tl:@ERFIEF
