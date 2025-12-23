@@ -6,8 +6,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoSmVyMnk3TGhteFQ0a3hrSDBFYnlu@77.83.241.86:6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprVG51WV9VMjF6VThGUGtDR1hkZDhB@68.183.236.145:1080#%F0%9F%87%B8%F0%9F%87%ACSingapore%20%2328925%20%2F%20OutlineKeys.com
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@153.121.39.240:2760?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40stairnode
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@153.121.39.240:2760?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@153.121.39.240:2760?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@153.121.39.240:2760?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.63.16:2760?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.63.16:2760?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40stairnode
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.63.16:2760?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.63.16:2760?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
 vless://36de8322-91ef-442a-bdff-b0d3be794482@66.42.61.103:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=GzxM2bh0UoMV3QnP2VJK1NTLlsSVMPUKFi53k1sa_Ss&sid=63a41c2f9ac8bea4#%3E%3E%40oneclickvpnkeys%3A%3ASG

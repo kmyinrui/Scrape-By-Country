@@ -1,6 +1,10 @@
 ss://3ebac9fe-b632-473f-d3da-41a3ef82cf4f@37.27.215.232:2089?path=%2F&security=&encryption=none&host=quic.cloud&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland
 ss://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?encryption=none&type=ws&host=cloudflare.com&path=/&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AFI
+ss://80c19783-5c4f-4794-ae0b-6efd11fd27ab@157.180.120.194:40200?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40FreakConfig%3A%3AFI
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU21xYTl1SzlPbzFlaXZQeVhpQUg4@83.147.216.70:64519#%F0%9F%87%AB%F0%9F%87%AEFinland%20%2329219%20%2F%20OutlineKeys.com
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng%3D@65.21.243.22:31348#%F0%9F%87%AB%F0%9F%87%AEFinland%20%2328009%20%2F%20OutlineKeys.com
+ss://f0025d65-f31f-451a-835d-6f00b4b82c6a@yoyo-fl.bing-net.com:9031?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20%7C%20Finland%20
 vless://3ebac9fe-b632-473f-d3da-41a3ef82cf4f@37.27.215.232:2089?path=%2F&security=&encryption=none&host=quic.cloud&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland
 vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?encryption=none&type=ws&host=cloudflare.com&path=/&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AFI
+vless://80c19783-5c4f-4794-ae0b-6efd11fd27ab@157.180.120.194:40200?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40FreakConfig%3A%3AFI
+vless://f0025d65-f31f-451a-835d-6f00b4b82c6a@yoyo-fl.bing-net.com:9031?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20%7C%20Finland%20

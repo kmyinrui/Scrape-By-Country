@@ -1,6 +1,8 @@
+ss://ee5576a5-d0d7-4c83-9656-f11c85238014@turk.mahfan.xyz:8081?encryption=none&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3ATR
 trojan://BxceQaOe@58.152.26.107:443?sni=t.me%252Fripaojiedian#TR%20TROJAN-27%20%7C%20free-nodes
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#TR%20TROJAN-58%20%7C%20free-nodes
 trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#TR%20TROJAN-05%20%7C%20free-nodes
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&headerType=none&type=tcp&sni=ya.ru#TR%20TROJAN-57%20%7C%20free-nodes
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&sni=io.ozone.ru&allowInsecure=true&fp=chrome#TR%20TROJAN-03%20%7C%20free-nodes
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&sni=web.max&allowInsecure=true&fp=chrome#TR%20TROJAN-42%20%7C%20free-nodes
+vless://ee5576a5-d0d7-4c83-9656-f11c85238014@turk.mahfan.xyz:8081?encryption=none&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3ATR
