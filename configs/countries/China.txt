@@ -1,2 +1,2 @@
 trojan://BxceQaOe@219.79.214.159:443?allowInsecure=1&sni=t.me%252Fripaojiedian#_CN_%E4%B8%AD%E5%9B%BD
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Mg5Lit5Zu9IOmYv+mHjOS6kSIsImFkZCI6IjguMjE4LjEwNS4xOTYiLCJwb3J0IjoiNTI3NTIiLCJ0eXBlIjoibm9uZSIsImlkIjoiOTI1YmRiZjUtNzJiZS00NDM3LWJlYmYtNDQxYzYxMDg5ZjZiIiwiYWlkIjoiMCIsIm5ldCI6Im5vbmUiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
+trojan://BxceQaOe@219.79.214.159:443?sni=t.me%2Fripaojiedian#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD

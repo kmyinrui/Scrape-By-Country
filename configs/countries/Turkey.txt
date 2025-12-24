@@ -1,4 +1,4 @@
-ss://ee5576a5-d0d7-4c83-9656-f11c85238014@turk.mahfan.xyz:8081?encryption=none&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3ATR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZ3ZMWlVmczhzaXZvQjlBN3drWWRt@83.217.9.17:25232#%3E%3E%40v2rayngvpn%3A%3ATR
 trojan://BxceQaOe@58.152.25.71:443?allowInsecure=1&sni=t.me%2Fripaojiedian#TR%20TROJAN-44%20%7C%20free-nodes
 trojan://BxceQaOe@58.152.26.107:443?allowInsecure=1&sni=t.me%2Fripaojiedian#TR%20TROJAN-43%20%7C%20free-nodes
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&sni=api.avito.ru&allowInsecure=true&fp=chrome#TR%20TROJAN-72%20%7C%20free-nodes
@@ -8,4 +8,4 @@ trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&sni=io.
 trojan://bb824a22-b7ce-427b-9ed6-1adf0751da02@107.174.82.102.sslip.io:443?security=tls&type=ws&sni=107.174.82.102.sslip.io&path=/gXKGj8a1tp1nNbZEcRugowKV#TR%20TROJAN-126%20%7C%20free-nodes
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&sni=web.max&allowInsecure=true&fp=chrome#TR%20TROJAN-57%20%7C%20free-nodes
 trojan://telegram-id-privatevpns@63.181.124.153:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#TR%20TROJAN-12%20%7C%20free-nodes
-vless://ee5576a5-d0d7-4c83-9656-f11c85238014@turk.mahfan.xyz:8081?encryption=none&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3ATR
+vmess://eyJhZGQiOiI5NC4xMzEuMTA4LjM2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijk4NTVmMWYwLWE4MDAtNDBkNC04YjM4LWM3ZDNlYjc5MzAyZCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjQ0MyIsInBzIjoiXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1UUiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
