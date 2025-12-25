@@ -5,7 +5,6 @@ ss://67eef5b1-27ee-4ea2-bcf3-1d736711720c@151.101.169.242:80?path=%2F%3Fed%3D256
 ss://765fed78-3a22-4507-a4a1-a6e403265dd2@trta.fastlynew.hosting-ip.com:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=maxfr156.global.ssl.fastly.net&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 ss://8ded38b7-f0d8-4ce8-8615-9d31db206732@91.99.73.21:42952?encryption=none&type=tcp&security=none#ID:::%F0%9F%9B%9Cmrconfig_group%F0%9F%9B%9C
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#%3E%3E%40OutlineVpnOfficial%3A%3AID
-ss://a0513d49-b2ed-4a94-8c1d-e7155c29ac1d@91.99.73.21:18473?encryption=none&type=tcp&security=none#ID:::%F0%9F%9B%9Cmrconfig_group%F0%9F%9B%9C
 ss://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967?encryption=none&security=none&type=tcp&headerType=none#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B8%F0%9F%87%AC-Singapore-1291ms-PT%20Herza%20Digital%20Indonesia
 ss://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B9
 ss://e80f6880-f525-48a2-9d3f-faea2cd7c967@81.200.146.76:41770?type=tcp&encryption=none&security=none#ID%3A%3A%3A%F0%9F%9B%9Cmrconfig_group%F0%9F%9B%9C
@@ -16,7 +15,6 @@ vless://50a9ab6c-1e20-41f2-b0d2-93ddec168ef9@trt.fastlynew.hosting-ip.com:80?pat
 vless://67eef5b1-27ee-4ea2-bcf3-1d736711720c@151.101.169.242:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=maxfr219.global.ssl.fastly.net&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 vless://765fed78-3a22-4507-a4a1-a6e403265dd2@trta.fastlynew.hosting-ip.com:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=maxfr156.global.ssl.fastly.net&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 vless://8ded38b7-f0d8-4ce8-8615-9d31db206732@91.99.73.21:42952?encryption=none&type=tcp&security=none#ID:::%F0%9F%9B%9Cmrconfig_group%F0%9F%9B%9C
-vless://a0513d49-b2ed-4a94-8c1d-e7155c29ac1d@91.99.73.21:18473?encryption=none&type=tcp&security=none#ID:::%F0%9F%9B%9Cmrconfig_group%F0%9F%9B%9C
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967?encryption=none&security=none&type=tcp&headerType=none#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B8%F0%9F%87%AC-Singapore-1291ms-PT%20Herza%20Digital%20Indonesia
 vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B9
 vless://e80f6880-f525-48a2-9d3f-faea2cd7c967@81.200.146.76:41770?type=tcp&encryption=none&security=none#ID%3A%3A%3A%F0%9F%9B%9Cmrconfig_group%F0%9F%9B%9C
