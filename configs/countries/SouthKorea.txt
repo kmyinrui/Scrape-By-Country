@@ -1,0 +1,1 @@
+trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@cdns.doon.eu.org:443?sni=_acme-challenge.2go.cloudns.be#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD
