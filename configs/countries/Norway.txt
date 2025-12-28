@@ -1,2 +1,4 @@
+ss://923f8f7e-afd7-4a0b-a79a-8c0a3218f263@al.reata.ir:2050?security=reality&encryption=none&pbk=d00ZgCDuY5ncLM1aF9nocq5oBthFMFetgobyJ2qUTg4&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=339d7c53d8832086#%F0%9F%87%A6%F0%9F%87%B1%20%D8%A2%D9%84%D8%A8%D8%A7%D9%86%DB%8C%20%7C%20No%20Ads
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#%3E%3E%40v2nodes%3A%3ANO
 trojan://ZyX%23rcLFldaPKHUC7NYm@217.170.194.222:13580?security=tls&sni=aspryonktg.mthjfbiay.click&allowInsecure=1&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B4%20NO-5
+vless://923f8f7e-afd7-4a0b-a79a-8c0a3218f263@al.reata.ir:2050?security=reality&encryption=none&pbk=d00ZgCDuY5ncLM1aF9nocq5oBthFMFetgobyJ2qUTg4&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=339d7c53d8832086#%F0%9F%87%A6%F0%9F%87%B1%20%D8%A2%D9%84%D8%A8%D8%A7%D9%86%DB%8C%20%7C%20No%20Ads
