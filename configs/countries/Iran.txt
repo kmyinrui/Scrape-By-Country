@@ -1,4 +1,4 @@
 ss://09d4b6ae-f95d-43f1-9968-7ee514cafd9b@31.97.46.156:35205?type=tcp&encryption=none&security=none#Telegram%22pingclub_ir%22-Pingclub-ir
-ss://e653feb2-6cc4-479e-b312-819517e17d11@31.97.46.156:56477?type=tcp&encryption=none&security=none#Telegram%22pingclub_ir%22-Pingclub.ir
+ss://9be5679d-cd82-4ace-9fcf-bed31e21fadf@tronblue.qzz.io:443?path=%2F43.218.77.16%3D1443&security=tls&encryption=none&insecure=0&host=tronblue.qzz.io&type=ws&allowInsecure=0&sni=tronblue.qzz.io#%F0%9F%94%B8Join%20Sho%20%40IRAN_V2RAY1%E2%9A%9C%EF%B8%8F
 vless://09d4b6ae-f95d-43f1-9968-7ee514cafd9b@31.97.46.156:35205?type=tcp&encryption=none&security=none#Telegram%22pingclub_ir%22-Pingclub-ir
-vless://e653feb2-6cc4-479e-b312-819517e17d11@31.97.46.156:56477?type=tcp&encryption=none&security=none#Telegram%22pingclub_ir%22-Pingclub.ir
+vless://9be5679d-cd82-4ace-9fcf-bed31e21fadf@tronblue.qzz.io:443?path=%2F43.218.77.16%3D1443&security=tls&encryption=none&insecure=0&host=tronblue.qzz.io&type=ws&allowInsecure=0&sni=tronblue.qzz.io#%F0%9F%94%B8Join%20Sho%20%40IRAN_V2RAY1%E2%9A%9C%EF%B8%8F
