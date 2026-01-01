@@ -1,7 +1,7 @@
-ss://2f30aa44-c87c-e73d-a715-0813c68ee9b2@93.186.254.141:9804?encryption=none&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AIT
+ss://07288721-1200-4c2f-a6ce-7ef59c4f8e22@78.159.247.74:5444?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6ba85179e30d4fc2#%3E%3E%40configV2rayNG%3A%3AIT
 ss://88ce0e00-3483-4628-acf2-6137629b9d44@5.253.43.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20IT%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@212.102.54.45:990#%3E%3E%40OutlineVpnOfficial%3A%3AIT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNHQ4VDdoRVlZM21EMkZuNHdueHlLNFgzNUFVenZSOA@176.126.83.121:443#%3E%3E%40OutlineVpnOfficial%3A%3AIT
 ss://YWVzLTI1Ni1nY206ME15YWNXYlFYeUdESTc5MzlyNHBndHJSNUpsZnNKSWx4a1djUE14cE1vbz0%3D@158.180.233.56:23846#%F0%9F%87%AE%F0%9F%87%B9Italy%20%2329654%20%2F%20OutlineKeys.com
-vless://2f30aa44-c87c-e73d-a715-0813c68ee9b2@93.186.254.141:9804?encryption=none&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AIT
+vless://07288721-1200-4c2f-a6ce-7ef59c4f8e22@78.159.247.74:5444?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6ba85179e30d4fc2#%3E%3E%40configV2rayNG%3A%3AIT
 vless://88ce0e00-3483-4628-acf2-6137629b9d44@5.253.43.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20IT%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
