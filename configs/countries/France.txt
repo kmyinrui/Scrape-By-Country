@@ -11,8 +11,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTcW9pRlJyRnN2ZW03dlYwS3dXUEc1@62.210.88.22:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUNzU0OEZqRUxUVGtyaG9QdnpMWjQx@62.210.88.22:443#%F0%9F%87%AB%F0%9F%87%B7France%20%2320584%20%2F%20OutlineKeys.com
 ss://b5920b52-504c-4835-978c-fbc4110d5840@france-paris.hostinger.kcartik-vps.com:443/?type=ws&encryption=none&flow=&host=france-paris.hostinger.kcartik-vps.com&path=%2Fvless&security=tls&sni=france-paris.hostinger.kcartik-vps.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
 ss://b5920b52-504c-4835-978c-fbc4110d5840@france-paris.hostinger.kcartik-vps.com:80/?type=ws&encryption=none&flow=&host=france-paris.hostinger.kcartik-vps.com&path=%2Fvless#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://5a2c16f9@777.ai7777777.xyz:443?allowInsecure=0&sni=snippets.kkii.eu.org&ws=1&wspath=%2F#%F0%9F%87%AB%F0%9F%87%B7%20FR%E6%B3%95%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://5a2c16f9@94.140.0.238:2096?allowInsecure=0&sni=snippets.kkii.eu.org&ws=1&wspath=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#%F0%9F%87%AB%F0%9F%87%B7%20FR%E6%B3%95%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://5a2c16f9@cf.130519.xyz:443?allowInsecure=0&sni=snippets.kkii.eu.org&ws=1&wspath=%2F%2F#%F0%9F%87%AB%F0%9F%87%B7%20FR%E6%B3%95%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://humanity@www.calmlunch.com:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://telegram-id-privatevpns@13.39.97.24:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#FR%20TROJAN-20%20%7C%20free-nodes
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#FR%20TROJAN-17%20%7C%20free-nodes
 vless://0a49a5cb-526c-471d-b08e-1a52d52ee635@france.streamvault-premium.site:80/?type=ws&encryption=none&flow=&host=france.streamvault-premium.site&path=%2Fvless#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://25aa9915-8061-4a5d-8fd8-b26c222d5b4c@188.114.98.224:8443/?type=ws&encryption=none&flow=&host=vds.rahedarro.com&path=%2Fblock&security=tls&sni=vds.rahedarro.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://2ce48b7b-6271-4dae-b894-2a58bf382787@frx.fastdbn.com:443?flow=&type=xhttp&host=&path=/&mode=auto&security=reality&fp=qq&sni=deb.debian.org&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM&spx=/#%3E%3E%40vmessorg%3A%3AFR
