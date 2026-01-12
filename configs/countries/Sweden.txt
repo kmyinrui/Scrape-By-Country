@@ -1,4 +1,2 @@
 ss://bef436c9-74fa-405e-fa8e-9d72788136ea@85.9.98.57:8082?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-ss://fc0e82dd-531a-4ac1-9ebc-b68ffeab7912@91.186.217.108:443?security=reality&encryption=none&pbk=bn4nV9O7aOI_pzbJsgqnyYxPX8a7efYDXqrYbxsL6V8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=pinova.io#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-6
 vless://bef436c9-74fa-405e-fa8e-9d72788136ea@85.9.98.57:8082?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://fc0e82dd-531a-4ac1-9ebc-b68ffeab7912@91.186.217.108:443?security=reality&encryption=none&pbk=bn4nV9O7aOI_pzbJsgqnyYxPX8a7efYDXqrYbxsL6V8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=pinova.io#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-6
