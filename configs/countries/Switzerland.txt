@@ -1,3 +1,2 @@
 ss://9e5ae650-6de5-4ab0-b305-f97df5ce2cc6@www.speedtest.net:8880?encryption=none&security=none&type=ws&host=servepross.ajorpare.ir#Switzerland@Mobilinternet`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#%3E%3E%40v2nodes%3A%3ACH
 vless://9e5ae650-6de5-4ab0-b305-f97df5ce2cc6@www.speedtest.net:8880?encryption=none&security=none&type=ws&host=servepross.ajorpare.ir#Switzerland@Mobilinternet`

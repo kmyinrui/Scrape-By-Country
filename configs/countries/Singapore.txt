@@ -8,12 +8,11 @@ ss://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441?path=%2FFREE%20By%
 trojan://61d8077bfb174e171b8283f155a555ad@153.121.45.139:3076?allowInsecure=1&sni=www.nintendogames.net#SG%20TROJAN-17%20%7C%20free-nodes
 trojan://61d8077bfb174e171b8283f155a555ad@160.16.106.99:3076?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://61d8077bfb174e171b8283f155a555ad@160.16.106.99:3076?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40stairnode
-trojan://61d8077bfb174e171b8283f155a555ad@160.16.106.99:3076?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1%206.2MB%2Fs
+trojan://61d8077bfb174e171b8283f155a555ad@160.16.106.99:3076?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12%202.8MB%2Fs
 trojan://61d8077bfb174e171b8283f155a555ad@160.16.106.99:544?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40stairnode
 trojan://61d8077bfb174e171b8283f155a555ad@160.16.106.99:544?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
-trojan://61d8077bfb174e171b8283f155a555ad@160.16.106.99:544?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12%202.9MB%2Fs
+trojan://61d8077bfb174e171b8283f155a555ad@160.16.106.99:544?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13%20755.0KB%2Fs
 trojan://61d8077bfb174e171b8283f155a555ad@160.16.70.180:544?security=tls&sni=www.nintendogames.net#SG%20TROJAN-10%20%7C%20free-nodes
 vless://7ea4c8e3-0f76-3231-b5c8-27fed8bbe326@s420.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s420.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u726759ubca3s420.okgfw.top&serviceName=&mode=&alpn=#SG%20VLESS-182%20%7C%20free-nodes
 vless://bb6e0719-3d1a-4896-bddc-ddc86d682609@104.16.122.4:8080?path=%2F&security=none&encryption=none&host=support.sslzoom.us&type=ws#%3E%3E%40V2RAY_VMESS_free%3A%3ASG
 vless://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#%3E%3E%40v2nodes%3A%3ASG
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgU0fmlrDliqDlnaEobWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKSIsImFkZCI6InZjLmZseS5kZXYiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjM1Mzc5MjE5LTY1MzUtNGYyZS1hNGZlLTNlNDRmNjFlMGVlZSIsImFpZCI6IjMyIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZjIiwiaG9zdCI6InZjLmZseS5kZXYiLCJ0bHMiOiJ0bHMifQ==
