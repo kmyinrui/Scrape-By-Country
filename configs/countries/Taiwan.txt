@@ -1,0 +1,4 @@
+trojan://1e071e05-b6b4-4966-9a78-3a98e6c0e984@cdnfire.xiaomispeed.com:21102?sni=cdnfire.xiaomispeed.com#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE3%2090.1KB%2Fs
+trojan://688abcd9-0ff0-49f8-baa1-6a23403bd0e7@cdnfire.xiaomispeed.com:25501?allowInsecure=1&sni=cdnfire.xiaomispeed.com#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82%20%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
+trojan://a0194cb9-ee34-4f75-b620-6d4d72ab1cb0@220.130.58.136:31101?sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE2
+trojan://f363c8b4-45cc-463b-959d-9ff613cbe2cd@green2.cdntencentmusic.com:31102?sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE
