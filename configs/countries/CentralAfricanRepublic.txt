@@ -1,0 +1,2 @@
+ss://65ad6c2f-c220-40a1-9bff-2b6ffbdb61ff@cf.iranwide.com:2087?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&type=xhttp&sni=ks1.iranwide.com#cf-04-%40V2rayng_Fast
+vless://65ad6c2f-c220-40a1-9bff-2b6ffbdb61ff@cf.iranwide.com:2087?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&type=xhttp&sni=ks1.iranwide.com#cf-04-%40V2rayng_Fast

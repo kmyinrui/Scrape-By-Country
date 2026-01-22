@@ -4,9 +4,7 @@ ss://02fb468f-21f2-460e-bfa1-ef52ae5e627f@ficdn19.suio.me:443/?type=tcp&encrypti
 ss://3ebac9fe-b632-473f-d3da-41a3ef82cf4f@37.27.215.232:2089?path=%2F&security=&encryption=none&host=quic.cloud&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU21xYTl1SzlPbzFlaXZQeVhpQUg4@83.147.216.70:64519#%F0%9F%87%AB%F0%9F%87%AEFinland%20%2329219%20%2F%20OutlineKeys.com
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng%3D@65.21.243.22:31348#%F0%9F%87%AB%F0%9F%87%AEFinland%20%2328009%20%2F%20OutlineKeys.com
-ss://fef4a93d-eb4f-4657-b56b-32a0dc060045@openai.com:443?path=%2F&security=tls&encryption=none&insecure=1&host=dev.qsaas.dev&type=ws&allowInsecure=1&sni=dev.qsaas.dev#%3E%3E%40prrofile_purple%3A%3AFI
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@85.192.48.156:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn10.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@85.192.48.50:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn1.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@ficdn19.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn19.suio.me&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://3ebac9fe-b632-473f-d3da-41a3ef82cf4f@37.27.215.232:2089?path=%2F&security=&encryption=none&host=quic.cloud&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@openai.com:443?path=%2F&security=tls&encryption=none&insecure=1&host=dev.qsaas.dev&type=ws&allowInsecure=1&sni=dev.qsaas.dev#%3E%3E%40prrofile_purple%3A%3AFI
