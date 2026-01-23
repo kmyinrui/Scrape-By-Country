@@ -1,1 +1,2 @@
-trojan://4843e94d205f3893f588255a591abe94@58.152.18.124:443?allowInsecure=1&sni=58.152.18.124#_CN_%E4%B8%AD%E5%9B%BD
+trojan://869e9086806483ca4744a4cb0f3d6e16@58.152.18.124:443?allowInsecure=0&sni=www.nintendogames.net#_CN_%E4%B8%AD%E5%9B%BD
+trojan://trojan@45.192.222.112:8443?allowInsecure=0&sni=store.timimi.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560#_CN_%E4%B8%AD%E5%9B%BD
