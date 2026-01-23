@@ -1,0 +1,1 @@
+trojan://4843e94d205f3893f588255a591abe94@58.152.18.124:443?allowInsecure=1&sni=58.152.18.124#_CN_%E4%B8%AD%E5%9B%BD

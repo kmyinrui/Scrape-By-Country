@@ -1,3 +1,2 @@
-ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@platform.wise.com:2053?path=%2F&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#%3E%3E%40outline_vpn%3A%3AES
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuN25xS2s4RHIxeWNzWktkNXE1aHVXZENzYnhWUUVhNE1jZ0xtb2hyNW9lVEFSWGp4NDlqTEZHNEVmcTRGR043TWRBYlZhUVVaZnAxWTRuQ1VDTXp1cVR4cWR3QlExOVQ%3D@94.131.22.134:40565#%F0%9F%87%AA%F0%9F%87%B8Spain%20%2325848%20%2F%20OutlineKeys.com
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@platform.wise.com:2053?path=%2F&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#%3E%3E%40outline_vpn%3A%3AES
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=0#%F0%9F%87%AA%F0%9F%87%B8%20%E8%A5%BF%E7%8F%AD%E7%89%99%20V2CROSS.COM

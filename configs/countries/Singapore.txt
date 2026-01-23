@@ -2,7 +2,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MmQyYjQ3MTgxYTMyZGU3@154.26.132.38:16922#SG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48803#SG%20SS-106%20%7C%20free-nodes
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTFkZmJlZmQwYWRkYzlj@45.135.228.135:11201#SG%20SS-86%20%7C%20free-nodes
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprVG51WV9VMjF6VThGUGtDR1hkZDhB@68.183.236.145:1080#%F0%9F%87%B8%F0%9F%87%ACSingapore%20%2328925%20%2F%20OutlineKeys.com
-ss://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#%3E%3E%40v2nodes%3A%3ASG
+ss://d6d7e024-0a49-483d-bcd7-048c4d30eca6@node1.nanonet.host:22539/?type=tcp&encryption=none&flow=&security=tls&sni=node1.nanonet.host&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASG
+ss://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441/?type=ws&encryption=none&flow=&host=zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29#%3E%3E%40oneclickvpnkeys%3A%3ASG
 ss://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#SG%20VLESS-40%20%7C%20free-nodes
 ss://e32f9c43-b141-3d58-b879-15c6a402e119@s420.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s420.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537ubca3s420.okgfw.top&serviceName=&mode=&alpn=#SG%20VLESS-179%20%7C%20free-nodes
 trojan://4843e94d205f3893f588255a591abe94@153.121.38.213:3901?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12%20954.7KB%2Fs
@@ -11,6 +12,7 @@ trojan://4843e94d205f3893f588255a591abe94@153.121.45.139:3076?allowInsecure=1&sn
 trojan://4843e94d205f3893f588255a591abe94@153.121.45.139:544?allowInsecure=0&sni=www.nintendogames.net#SG%20TROJAN-48%20%7C%20free-nodes
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.106.99:544?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.89.176:3076?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
-vless://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#%3E%3E%40v2nodes%3A%3ASG
+vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@node1.nanonet.host:22539/?type=tcp&encryption=none&flow=&security=tls&sni=node1.nanonet.host&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASG
+vless://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441/?type=ws&encryption=none&flow=&host=zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29#%3E%3E%40oneclickvpnkeys%3A%3ASG
 vless://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#SG%20VLESS-40%20%7C%20free-nodes
 vless://e32f9c43-b141-3d58-b879-15c6a402e119@s420.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s420.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537ubca3s420.okgfw.top&serviceName=&mode=&alpn=#SG%20VLESS-179%20%7C%20free-nodes
