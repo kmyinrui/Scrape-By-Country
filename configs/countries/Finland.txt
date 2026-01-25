@@ -1,8 +1,8 @@
+ss://309fa273-6579-4cb2-9143-7cad50401eba@135.181.155.97:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-56
 ss://3ebac9fe-b632-473f-d3da-41a3ef82cf4f@37.27.215.232:2089?path=%2F&security=&encryption=none&host=quic.cloud&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU21xYTl1SzlPbzFlaXZQeVhpQUg4@83.147.216.70:64519#%F0%9F%87%AB%F0%9F%87%AEFinland%20%2329219%20%2F%20OutlineKeys.com
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng%3D@65.21.243.22:31348#%F0%9F%87%AB%F0%9F%87%AEFinland%20%2328009%20%2F%20OutlineKeys.com
-ss://c68a1a4c-7dbd-4a19-bf2e-e00e131373bf@216.24.57.1:443?path=%2FWS%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ceo.nexun.ir&fp=chrome&type=ws&allowInsecure=0&sni=ceo.nexun.ir#%3E%3E%40FreakConfig%3A%3AFI
 ss://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.18.32.47:443?path=%2F&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#%3E%3E%40prrofile_purple%3A%3AFI
+vless://309fa273-6579-4cb2-9143-7cad50401eba@135.181.155.97:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-56
 vless://3ebac9fe-b632-473f-d3da-41a3ef82cf4f@37.27.215.232:2089?path=%2F&security=&encryption=none&host=quic.cloud&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://c68a1a4c-7dbd-4a19-bf2e-e00e131373bf@216.24.57.1:443?path=%2FWS%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ceo.nexun.ir&fp=chrome&type=ws&allowInsecure=0&sni=ceo.nexun.ir#%3E%3E%40FreakConfig%3A%3AFI
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.18.32.47:443?path=%2F&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#%3E%3E%40prrofile_purple%3A%3AFI

@@ -1,0 +1,2 @@
+ss://8e29cb48-f1b0-4038-8b34-b7088e23c773@cdn.irandoc.info:443?path=%2F59693%2Fapi%2Fws&security=tls&encryption=none&insecure=0&host=cdn.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=cdn.irandoc.info#lu
+vless://8e29cb48-f1b0-4038-8b34-b7088e23c773@cdn.irandoc.info:443?path=%2F59693%2Fapi%2Fws&security=tls&encryption=none&insecure=0&host=cdn.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=cdn.irandoc.info#lu

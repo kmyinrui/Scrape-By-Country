@@ -1,2 +1,1 @@
-trojan://09007daa-a345-4ec2-b3e8-37068855f877@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82%20%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
-trojan://98edcf90-4337-47e3-b389-7923f67aefc7@green2.cdntencentmusic.com:35502?allowInsecure=1&sni=green2.cdntencentmusic.com#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82%20%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
+trojan://d60d5ee1-41ad-4ec0-abbc-3f67bec90d59@cdnfire.xiaomispeed.com:25502?allowInsecure=0&sni=cdnfire.xiaomispeed.com#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82%20%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
