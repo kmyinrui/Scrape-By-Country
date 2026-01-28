@@ -2,6 +2,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MmQyYjQ3MTgxYTMyZGU3@154.26.132.38:16922#SG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprVG51WV9VMjF6VThGUGtDR1hkZDhB@68.183.236.145:1080#%F0%9F%87%B8%F0%9F%87%ACSingapore%20%2328925%20%2F%20OutlineKeys.com
 ss://d6d7e024-0a49-483d-bcd7-048c4d30eca6@node1.nanonet.host:22539/?type=tcp&encryption=none&flow=&security=tls&sni=node1.nanonet.host&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASG
 ss://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441/?type=ws&encryption=none&flow=&host=zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29#%3E%3E%40oneclickvpnkeys%3A%3ASG
+ss://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=&encryption=none&host=zoom.us&type=ws#%F0%9F%87%B8%F0%9F%87%AC%5Bopenproxylist.com%5D%20vless-SG
 ss://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-15
 ss://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#SG%20VLESS-95%20%7C%20free-nodes
 ss://e32f9c43-b141-3d58-b879-15c6a402e119@s420.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s420.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537ubca3s420.okgfw.top&serviceName=&mode=&alpn=#SG%20VLESS-173%20%7C%20free-nodes
@@ -16,10 +17,10 @@ trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.72.33:544?allowInsecure=0&sni=w
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.72.33:544?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A14
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.87.174:3901?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40stairnode
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.87.174:3901?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
-trojan://BxceQaOe@13.158.129.83:3579?allowInsecure=0&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40stairnode
-trojan://BxceQaOe@13.158.129.83:3579?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
+trojan://BxceQaOe@18.182.8.233:1691?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
 vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@node1.nanonet.host:22539/?type=tcp&encryption=none&flow=&security=tls&sni=node1.nanonet.host&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASG
 vless://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441/?type=ws&encryption=none&flow=&host=zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29#%3E%3E%40oneclickvpnkeys%3A%3ASG
+vless://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=&encryption=none&host=zoom.us&type=ws#%F0%9F%87%B8%F0%9F%87%AC%5Bopenproxylist.com%5D%20vless-SG
 vless://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-15
 vless://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#SG%20VLESS-95%20%7C%20free-nodes
 vless://e32f9c43-b141-3d58-b879-15c6a402e119@s420.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s420.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537ubca3s420.okgfw.top&serviceName=&mode=&alpn=#SG%20VLESS-173%20%7C%20free-nodes
