@@ -12,10 +12,10 @@ trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.72.33:544?security=tls&sni=www.
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.89.176:3076?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#SG%20TROJAN-28%20%7C%20free-nodes
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.116.227:3901?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40stairnode
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.116.227:3901?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
-trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.116.227:3901?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.116.227:3901?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.116.227:544?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.116.227:544?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40stairnode
-trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.116.227:544?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12%203.8MB%2Fs
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.116.227:544?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12%203.7MB%2Fs
 vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@node1.nanonet.host:22539/?type=tcp&encryption=none&flow=&security=tls&sni=node1.nanonet.host&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASG
 vless://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441/?type=ws&encryption=none&flow=&host=zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29#%3E%3E%40oneclickvpnkeys%3A%3ASG
 vless://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-15
@@ -24,3 +24,4 @@ vless://e32f9c43-b141-3d58-b879-15c6a402e119@s468.ccgfw.top:443?encryption=none&
 vless://e32f9c43-b141-3d58-b879-15c6a402e119@s469.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s469.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537u5821s469.ccgfw.top&serviceName=&mode=&alpn=#SG%20VLESS-157%20%7C%20free-nodes
 vless://e32f9c43-b141-3d58-b879-15c6a402e119@s470.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s470.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u730537u7a22s470.ccgfw.top&serviceName=&mode=&alpn=#SG%20VLESS-144%20%7C%20free-nodes
 vless://fa7ea4ac-1ed6-467a-ae18-2099ed2bb4ae@146.190.85.213:45989?encryption=none&security=reality&sni=apple.com&fp=chrome&pbk=YmPBYhQjKnaKKGDHQb6xxjvPw3nenm59T1ssG0KFcj0&sid=1f13df2cb7&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-34
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1TRyIsImFkZCI6IjIwMi44NS41My4xNzkiLCJwb3J0IjoiMzA4MTIiLCJ0eXBlIjoibm9uZSIsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsImhvc3QiOiIiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==

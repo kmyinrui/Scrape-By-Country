@@ -1,0 +1,2 @@
+ss://888564ea-b58b-4a80-9d87-b36acbb70e46@cname2.sonamii.com:8443?encryption=none&type=xhttp&mode=auto&host=francecloud.sonamii.com&path=/?ed%3D8880&security=tls&fp=chrome&sni=francecloud.sonamii.com&alpn=h2,http/1.1#Tg:appleios_ir
+vless://888564ea-b58b-4a80-9d87-b36acbb70e46@cname2.sonamii.com:8443?encryption=none&type=xhttp&mode=auto&host=francecloud.sonamii.com&path=/?ed%3D8880&security=tls&fp=chrome&sni=francecloud.sonamii.com&alpn=h2,http/1.1#Tg:appleios_ir
