@@ -1,2 +1,0 @@
-ss://c5e70ca5-0398-49ab-a8f9-3450dd11180f@toerdd.totalmntxah.ir:27980?security=none&encryption=none&headerType=http&type=tcp#Join%20to%20%40AccoTUN%20%E2%99%A5%EF%B8%8F%F0%9F%95%8A%EF%B8%8F
-vless://c5e70ca5-0398-49ab-a8f9-3450dd11180f@toerdd.totalmntxah.ir:27980?security=none&encryption=none&headerType=http&type=tcp#Join%20to%20%40AccoTUN%20%E2%99%A5%EF%B8%8F%F0%9F%95%8A%EF%B8%8F

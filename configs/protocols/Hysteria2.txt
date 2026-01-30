@@ -13,6 +13,8 @@ hysteria2://64d95ad1-76e3-43d1-99a7-f401b1289b50@us2.anliangjifei.top:51876,5000
 hysteria2://652f234a-71d3-45d1-888f-682c048ef7df@us2.anliangjifei.top:50423,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-12
 hysteria2://68c238d0-4159-4f0d-a38a-9dfc7b3eef24@us2.anliangjifei.top:53895/?insecure=1&sni=apps.apple.com#@APPXA-18
 hysteria2://7cd68008-f7f1-485f-b97f-2a9c384ba457@us2.anliangjifei.top:50644,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-19
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%F0%9F%86%9447%40ConfigV2RayNGvless://726fbc17-dd31-49fc-93b6-75af1abad99e@de01.keyinvest.org:443?security=reality&encryption=none&pbk=c6RlqzTVSTJa22lCVX3u8jvZXXbWEsYGSX4kjo3ffkk&type=grpc&sni=web.max.ru#%E2%8F%BA%EF%B8%8F16%40ConfigV2RayNG
 hysteria2://a0e57144-5343-489f-be1b-22b67a1df9a1@us2.anliangjifei.top:51145,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-21
 hysteria2://a0e57144-5343-489f-be1b-22b67a1df9a1@us2.anliangjifei.top:52019,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-22
 hysteria2://a10d5d6c-7e9b-4735-9242-658928bf132a@us2.anliangjifei.top:54427,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-17```
