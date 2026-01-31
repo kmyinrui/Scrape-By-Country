@@ -1,2 +1,1 @@
-trojan://0500c7b4-083f-4746-a98a-abfbdc755da9@green2.cdntencentmusic.com:31103?allowInsecure=0&sni=green2.cdntencentmusic.com#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82%20%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
-trojan://b2e4b979-b198-47e5-8c6c-f4b919e34eb4@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82%20%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
+trojan://0500c7b4-083f-4746-a98a-abfbdc755da9@green2.cdntencentmusic.com:31103?security=tls&sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE
