@@ -3,13 +3,13 @@ ss://c2b6ef4f-58b5-34df-a9b2-b9423df641d9@s420.okgfw.top:443?encryption=none&typ
 ss://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-15
 trojan://5fb072e0ddd631cf66cf752b09210480@160.16.106.99:3901?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://5fb072e0ddd631cf66cf752b09210480@160.16.106.99:3901?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40stairnode
-trojan://5fb072e0ddd631cf66cf752b09210480@160.16.106.99:3901?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1%205.6MB%2Fs
+trojan://5fb072e0ddd631cf66cf752b09210480@160.16.106.99:3901?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1%205.9MB%2Fs
 trojan://5fb072e0ddd631cf66cf752b09210480@160.16.124.17:544?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40stairnode
 trojan://5fb072e0ddd631cf66cf752b09210480@160.16.124.17:544?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
-trojan://5fb072e0ddd631cf66cf752b09210480@160.16.124.17:544?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
+trojan://5fb072e0ddd631cf66cf752b09210480@160.16.124.17:544?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
 trojan://BxceQaOe@54.150.247.142:1691?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://BxceQaOe@54.150.247.142:1691?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40stairnode
-trojan://BxceQaOe@54.150.247.142:1691?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
+trojan://BxceQaOe@54.150.247.142:1691?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
 vless://c2b6ef4f-58b5-34df-a9b2-b9423df641d9@s420.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s420.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u729804ubca3s420.okgfw.top&serviceName=&mode=&alpn=#SG%20VLESS-194%20%7C%20free-nodes
 vless://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-15
-vmess://eyJhZGQiOiIyMTcuMjE3LjI1NS45OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4MzA0OWJkYS04ZDUzLTQ0YmMtZjcxYy1mNmIwM2MxY2E0ODIiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiI4NDQzIiwicHMiOiJcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWNbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLVNHIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vmess://eyJhZGQiOiIyMTcuMjE3LjI1NS45OSIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI4MzA0OWJkYS04ZDUzLTQ0YmMtZjcxYy1mNmIwM2MxY2E0ODIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiI4NDQzIiwicHMiOiJcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWNbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLVNHIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjI4IiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
