@@ -1,11 +1,10 @@
 ss://ca0e8520-42cd-49db-cfec-1295834b9e21@47.82.1.12:59100?security=none&type=tcp&encryption=none#SG%20VLESS-113%20%7C%20free-nodes
-ss://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#%3E%3E%40outline_vpn%3A%3ASG
+ss://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?security=&encryption=none&host=speedtest.net&headerType=none&type=tcp#%3E%3E%40v2rayng_fast%3A%3ASG
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.39.240:3901?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40stairnode
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.39.240:3901?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.39.240:3901?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13%206.6MB%2Fs
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.39.240:3901?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13%205.6MB%2Fs
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.89.176:3901?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.89.176:3901?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40stairnode
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.89.176:3901?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1%206.5MB%2Fs
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.89.176:3901?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1%207.3MB%2Fs
 vless://ca0e8520-42cd-49db-cfec-1295834b9e21@47.82.1.12:59100?security=none&type=tcp&encryption=none#SG%20VLESS-113%20%7C%20free-nodes
-vless://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#%3E%3E%40outline_vpn%3A%3ASG
-vmess://eyJhZGQiOiIxNzIuMjM2LjE1NC41MCIsImFpZCI6MCwiaG9zdCI6InNnLmRhbHh5LmV1Lm9yZyIsImlkIjoiYTg4YTcxZmEtZWQ3Yy00OGQzLTg5ZTAtNzRhMDBkNjA1ZDg4IiwibmV0Ijoid3MiLCJwYXRoIjoiYTg4YTcxZmEtZWQ3Yy00OGQzLTg5ZTAtNzRhMDBkNjA1ZDg4LXZtIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlY1tvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtU0ciLCJzZWN1cml0eSI6ImF1dG8iLCJzbmkiOiJzZy5kYWx4eS5ldS5vcmciLCJ0bHMiOiJ0bHMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+vless://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?security=&encryption=none&host=speedtest.net&headerType=none&type=tcp#%3E%3E%40v2rayng_fast%3A%3ASG
