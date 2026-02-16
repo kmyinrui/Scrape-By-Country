@@ -6,7 +6,6 @@ ss://94a03e9a-74d5-4036-95e9-563cc19355de@144.31.128.36:443/?type=tcp&encryption
 ss://94a03e9a-74d5-4036-95e9-563cc19355de@144.31.128.37:443/?type=tcp&encryption=none&flow=&security=tls&sni=secdn20.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
 ss://94a03e9a-74d5-4036-95e9-563cc19355de@144.31.128.38:443/?type=tcp&encryption=none&flow=&security=tls&sni=secdn22.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
 ss://9819e556-b0e4-4e54-bebd-39ce61b264e5@s9.iblueweb.casa:8880?encryption=none&type=tcp&host=none&path=/&security=none#%3E%3E%40V2rayNg_madam%3A%3AFI
-ss://feaf1d64-b44c-4cc8-b114-4001478c1fd0@fit.jojack.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fit.jojack.ru&fp=chrome&security=reality&pbk=u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw&sid=f8865ecbb9bc11a3#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-105
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#%3E%3E%40prrofile_purple%3A%3AFI
 vless://309fa273-6579-4cb2-9143-7cad50401eba@135.181.155.97:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-56
 vless://309fa273-6579-4cb2-9143-7cad50401eba@46.62.128.207:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-57
@@ -15,4 +14,3 @@ vless://94a03e9a-74d5-4036-95e9-563cc19355de@144.31.128.36:443/?type=tcp&encrypt
 vless://94a03e9a-74d5-4036-95e9-563cc19355de@144.31.128.37:443/?type=tcp&encryption=none&flow=&security=tls&sni=secdn20.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://94a03e9a-74d5-4036-95e9-563cc19355de@144.31.128.38:443/?type=tcp&encryption=none&flow=&security=tls&sni=secdn22.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://9819e556-b0e4-4e54-bebd-39ce61b264e5@s9.iblueweb.casa:8880?encryption=none&type=tcp&host=none&path=/&security=none#%3E%3E%40V2rayNg_madam%3A%3AFI
-vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@fit.jojack.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fit.jojack.ru&fp=chrome&security=reality&pbk=u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw&sid=f8865ecbb9bc11a3#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-105
