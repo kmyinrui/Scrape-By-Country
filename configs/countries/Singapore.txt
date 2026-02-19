@@ -4,6 +4,4 @@ ss://YWVzLTI1Ni1nY206ak1vZ05YWGswOGwySkswTg@46.250.234.115:80#SG%20SS-44%20%7C%2
 ss://YWVzLTI1Ni1nY206cUt2Zlg3eVFuVDk5T011Mw@194.233.75.190:80#SG%20SS-50%20%7C%20free-nodes
 ss://YWVzLTI1Ni1nY206endqbFU5N3RCS3RQSlBCNQ@45.77.253.107:80#SG%20SS-54%20%7C%20free-nodes
 ss://d6d7e024-0a49-483d-bcd7-048c4d30eca6@node1.nanonet.host:22539/?type=tcp&encryption=none&flow=&security=tls&sni=node1.nanonet.host&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-31
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.39.240:3901?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.138.24:3901?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@node1.nanonet.host:22539/?type=tcp&encryption=none&flow=&security=tls&sni=node1.nanonet.host&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-31
