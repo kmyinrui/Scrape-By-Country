@@ -1,5 +1,6 @@
 ss://0331b690-79fc-49d5-85f0-54faa4eff89f@54.38.214.29:2345?encryption=none&security=none&type=tcp&headerType=none#%3E%3E%40v2line%3A%3AGB
 ss://0331b690-79fc-49d5-85f0-54faa4eff89f@54.38.214.29:2345?security=none&encryption=none&headerType=none&type=tcp#GB%20VLESS-51%20%7C%20free-nodes
+ss://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40FreakConfig%3A%3AGB
 ss://115e24e4-fc6b-4d89-8f55-05eb00770001@cdnuser2048mb.wrongguy.ir:8443?mode=auto&path=%2Ft.me%2FVip_fragment_v2ray&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ic.imsoon.io.&fp=chrome&type=xhttp&allowInsecure=0&sni=ic.imsoon.io#%3E%3E%40configV2rayNG%3A%3AGB
 ss://20adc847-4159-4f39-b79f-d563b660945f@57.128.159.109:2345/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AGB
 ss://20adc847-4159-4f39-b79f-d563b660945f@simurgh.adslimit.info:2345/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AGB
@@ -18,6 +19,7 @@ ss://eb071647-72a6-46be-8e89-ff3d228d52f6@de.cdn.stun.su:443?security=reality&en
 trojan://Tn2Bf0iRwJkJQgDk6gX6x81RB@hl-freedom-2.undef.network:443?host=hl-freedom-2.undef.network&path=/f2fc2a1f&security=tls&type=ws#GB%20TROJAN-43%20%7C%20free-nodes
 vless://0331b690-79fc-49d5-85f0-54faa4eff89f@54.38.214.29:2345?encryption=none&security=none&type=tcp&headerType=none#%3E%3E%40v2line%3A%3AGB
 vless://0331b690-79fc-49d5-85f0-54faa4eff89f@54.38.214.29:2345?security=none&encryption=none&headerType=none&type=tcp#GB%20VLESS-51%20%7C%20free-nodes
+vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40FreakConfig%3A%3AGB
 vless://115e24e4-fc6b-4d89-8f55-05eb00770001@cdnuser2048mb.wrongguy.ir:8443?mode=auto&path=%2Ft.me%2FVip_fragment_v2ray&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ic.imsoon.io.&fp=chrome&type=xhttp&allowInsecure=0&sni=ic.imsoon.io#%3E%3E%40configV2rayNG%3A%3AGB
 vless://20adc847-4159-4f39-b79f-d563b660945f@57.128.159.109:2345/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://20adc847-4159-4f39-b79f-d563b660945f@simurgh.adslimit.info:2345/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AGB

@@ -1,6 +1,8 @@
 ss://00000000-0000-4000-8000-000000000000@159.69.162.184:42622/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASE
 ss://00000000-0000-4000-8000-000000000000@159.69.162.184:43393/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASE
 ss://bef436c9-74fa-405e-fa8e-9d72788136ea@85.9.98.57:8082?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+ss://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.112:9000?security=none&encryption=none&headerType=http&type=tcp#%3E%3E%40configV2rayNG%3A%3ASE
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42622/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASE
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43393/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASE
 vless://bef436c9-74fa-405e-fa8e-9d72788136ea@85.9.98.57:8082?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.112:9000?security=none&encryption=none&headerType=http&type=tcp#%3E%3E%40configV2rayNG%3A%3ASE
