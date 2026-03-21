@@ -1,6 +1,4 @@
 ss://237120d4-6f8e-47de-b50c-2c8218a720df@45.88.182.24:25380?security=reality&encryption=none&pbk=G7LvWyxJWO4f-YKZM-Nf7n3hd3AHfThLX3aOIC2qKXg&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d6cd#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%B7%20KR-63
-ss://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?allowInsecure=0&sni=ako.pagate.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#KR%20VLESS-119%20%7C%20free-nodes
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AKR
-trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos#KR%20TROJAN-29%20%7C%20free-nodes
+trojan://ZY07256934@glowing-deer.rooster465.autos:443?type=tcp&security=tls&sni=glowing-deer.rooster465.autos&fp=chrome&allowInsecure=1#KR%20TROJAN-23%20%7C%20free-nodes
 vless://237120d4-6f8e-47de-b50c-2c8218a720df@45.88.182.24:25380?security=reality&encryption=none&pbk=G7LvWyxJWO4f-YKZM-Nf7n3hd3AHfThLX3aOIC2qKXg&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d6cd#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%B7%20KR-63
-vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?allowInsecure=0&sni=ako.pagate.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#KR%20VLESS-119%20%7C%20free-nodes
