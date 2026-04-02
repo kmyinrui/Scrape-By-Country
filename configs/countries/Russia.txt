@@ -1,7 +1,8 @@
+ss://1f0a8364-ae34-07d0-b999-34a723111ebd@45.151.182.205:52006?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&security=reality&sid=d8c6b58bcbb0c323&sni=max.ru&type=tcp#RU%20VLESS-91%20%7C%20free-nodes
 ss://4821536d-26b8-53a1-8b52-6ba7bbcab5cf@5.129.249.134:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ir.ozone.ru&fp=chrome&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-1375
 ss://5d338ff0-5826-55e0-a603-699b018d7498@5.129.249.134:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ir.ozone.ru&fp=chrome&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-1403
 ss://801ddf0d-5b03-4a1d-a7b0-211458015187@103.88.241.10:49169?encryption=none&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
-ss://801ddf0d-5b03-4a1d-a7b0-211458015187@109.68.212.216:49169?encryption=none&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
+ss://801ddf0d-5b03-4a1d-a7b0-211458015187@109.68.212.216:49169?encryption=none&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
 ss://801ddf0d-5b03-4a1d-a7b0-211458015187@185.178.47.163:49169?encryption=none&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
 ss://801ddf0d-5b03-4a1d-a7b0-211458015187@188.225.34.41:49169?encryption=none&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
 ss://801ddf0d-5b03-4a1d-a7b0-211458015187@217.25.94.11:49169?encryption=none&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
@@ -12,10 +13,11 @@ ss://eaca6b0a-9728-5766-8fb0-0be81c1b7c91@5.129.249.134:443?encryption=none&flow
 ss://mega1507@5.129.249.134:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ir.ozone.ru&fp=chrome&security=reality&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-1504
 ss://mega2499@5.129.249.134:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ir.ozone.ru&fp=chrome&security=reality&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-1426
 ss://mega768@5.129.249.134:443?security=reality&encryption=none&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ir.ozone.ru&sid=ab1cd2#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-1506
+vless://1f0a8364-ae34-07d0-b999-34a723111ebd@45.151.182.205:52006?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&security=reality&sid=d8c6b58bcbb0c323&sni=max.ru&type=tcp#RU%20VLESS-91%20%7C%20free-nodes
 vless://4821536d-26b8-53a1-8b52-6ba7bbcab5cf@5.129.249.134:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ir.ozone.ru&fp=chrome&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-1375
 vless://5d338ff0-5826-55e0-a603-699b018d7498@5.129.249.134:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ir.ozone.ru&fp=chrome&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-1403
 vless://801ddf0d-5b03-4a1d-a7b0-211458015187@103.88.241.10:49169?encryption=none&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
-vless://801ddf0d-5b03-4a1d-a7b0-211458015187@109.68.212.216:49169?encryption=none&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
+vless://801ddf0d-5b03-4a1d-a7b0-211458015187@109.68.212.216:49169?encryption=none&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
 vless://801ddf0d-5b03-4a1d-a7b0-211458015187@185.178.47.163:49169?encryption=none&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
 vless://801ddf0d-5b03-4a1d-a7b0-211458015187@188.225.34.41:49169?encryption=none&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
 vless://801ddf0d-5b03-4a1d-a7b0-211458015187@217.25.94.11:49169?encryption=none&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
