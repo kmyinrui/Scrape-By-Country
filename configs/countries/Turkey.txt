@@ -1,13 +1,10 @@
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@trq.xn--mes13n8pi8x2b.shop:21112?insecure=0&mport=21001-21999#%E5%9C%9F%E8%80%B3%E5%85%B61
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@trq.xn--mes13n8pi8x2b.shop:21910?insecure=0&mport=21001-21999#%E5%9C%9F%E8%80%B3%E5%85%B62
-ss://9bde09b3-09b5-4d7a-b5fd-3fae8dfeed5a@185.72.9.200:56126?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ATR
 ss://9bde09b3-09b5-4d7a-b5fd-3fae8dfeed5a@185.72.9.200:56126?encryption=none&security=none&type=tcp#TR%20VLESS-116%20%7C%20free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBVkxiRVVFdEJENTlGc1JxY055RWli@203.202.232.78:60299#%3E%3E%40oneclickvpnkeys%3A%3ATR
 ss://b2f99930-7d48-4a22-8d67-539c440b6a7a@8adeefa1-96b4-42d4-b163-1e0bf13bae5d.quadzero.online:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=8adeefa1-96b4-42d4-b163-1e0bf13bae5d.quadzero.online&path=%2F01119417&security=tls&sni=8adeefa1-96b4-42d4-b163-1e0bf13bae5d.quadzero.online&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ATR
 trojan://BvzUvt45hON9We5X9wM6I9ZrxHRcYd46QK@216.238.102.254:26593?security=tls&sni=sao2.cdn-graph.click#TR%20TROJAN-77%20%7C%20free-nodes
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=0&sni=ads.x5.ru#TR%20TROJAN-79%20%7C%20free-nodes
 trojan://strong-secret-pass-777@94.131.105.125:4443?allowInsecure=1&sni=94.131.105.125#TR%20TROJAN-85%20%7C%20free-nodes
-vless://9bde09b3-09b5-4d7a-b5fd-3fae8dfeed5a@185.72.9.200:56126?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ATR
 vless://9bde09b3-09b5-4d7a-b5fd-3fae8dfeed5a@185.72.9.200:56126?encryption=none&security=none&type=tcp#TR%20VLESS-116%20%7C%20free-nodes
 vless://b2f99930-7d48-4a22-8d67-539c440b6a7a@8adeefa1-96b4-42d4-b163-1e0bf13bae5d.quadzero.online:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=8adeefa1-96b4-42d4-b163-1e0bf13bae5d.quadzero.online&path=%2F01119417&security=tls&sni=8adeefa1-96b4-42d4-b163-1e0bf13bae5d.quadzero.online&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ATR
 vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh7nwn4e3IFRSLTMzIiwiYWRkIjoiNDUuODkuNTIuMjA3IiwicG9ydCI6IjM5NjUxIiwidHlwZSI6Im5vbmUiLCJpZCI6ImFjNGMxMmM1LTQ1ZjItNDM5OC1hNzE4LTk5ODM5NDFlZGUyYiIsImFpZCI6IjAiLCJuZXQiOiJyYXciLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
