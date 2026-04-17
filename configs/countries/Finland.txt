@@ -3,9 +3,7 @@ ss://309fa273-6579-4cb2-9143-7cad50401eba@46.62.128.207:443?security=reality&enc
 ss://3ebac9fe-b632-473f-d3da-41a3ef82cf4f@37.27.215.232:2089?path=%2F&security=&encryption=none&host=quic.cloud&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#%3E%3E%40oneclickvpnkeys%3A%3AFI
 ss://c4f2dee2-14e3-4c02-91e9-31c7917e239c@185.93.105.118:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
-ss://e060f013-53e5-4d88-bf5e-f93baa562ac5@83.97.78.219:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&security=reality&sni=www.google.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://309fa273-6579-4cb2-9143-7cad50401eba@135.181.155.97:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-56
 vless://309fa273-6579-4cb2-9143-7cad50401eba@46.62.128.207:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-57
 vless://3ebac9fe-b632-473f-d3da-41a3ef82cf4f@37.27.215.232:2089?path=%2F&security=&encryption=none&host=quic.cloud&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland
 vless://c4f2dee2-14e3-4c02-91e9-31c7917e239c@185.93.105.118:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://e060f013-53e5-4d88-bf5e-f93baa562ac5@83.97.78.219:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&security=reality&sni=www.google.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
