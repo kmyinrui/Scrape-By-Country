@@ -4,10 +4,8 @@ ss://3ebac9fe-b632-473f-d3da-41a3ef82cf4f@37.27.215.232:2089?path=%2F&security=&
 ss://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮1
 ss://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#%3E%3E%40oneclickvpnkeys%3A%3AFI
-ss://ce069292-c8bf-40dd-a6b1-87818a1e64e9@193.233.199.177:443?allowInsecure=1&encryption=none&host=3-7gj.pages.dev&security=tls&sni=3-7gj.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://309fa273-6579-4cb2-9143-7cad50401eba@135.181.155.97:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-56
 vless://309fa273-6579-4cb2-9143-7cad50401eba@46.62.128.207:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-57
 vless://3ebac9fe-b632-473f-d3da-41a3ef82cf4f@37.27.215.232:2089?path=%2F&security=&encryption=none&host=quic.cloud&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮1
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#FI🇫🇮3
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@193.233.199.177:443?allowInsecure=1&encryption=none&host=3-7gj.pages.dev&security=tls&sni=3-7gj.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
