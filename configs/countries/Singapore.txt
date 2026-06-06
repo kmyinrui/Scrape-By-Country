@@ -1,3 +1,1 @@
 ss://aes-128-gcm%3A6601fb90e9b3@csgfw.top:443#SG%20SS-147%20%7C%20free-nodes
-ss://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=node1.nanonet.host&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ASG
-vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=node1.nanonet.host&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ASG

@@ -1,7 +1,5 @@
 ss://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?security=none&encryption=none&type=ws&path=/vless/#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B1%20AL-8
 ss://8910cbb3-33b1-4266-a243-ac780ac63394@pq-Albania1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B1%20AL-7
-ss://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#%3E%3E%40configshub2%3A%3AAL
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?security=none&encryption=none&type=ws&path=/vless/#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B1%20AL-8
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-Albania1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B1%20AL-7
-vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#%3E%3E%40configshub2%3A%3AAL
 vmess://eyJhZGQiOiI0NS4xNS4xNzAuMjM3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjgyMGQ0YjRmLTMzNTctNGRjNy05MzgxLTZlNWZkNTJiNWYzOSIsImluc2VjdXJlIjoiMSIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6IltPcGVuUmF5XSDwn4em8J+HsSBBTC0xMCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
