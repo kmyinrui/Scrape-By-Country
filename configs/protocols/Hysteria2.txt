@@ -27,9 +27,6 @@ hysteria2://1c65bee4-bc54-364c-8988-6a5912fda891@s869.okgfwbackxyz.xyz:443?sni=u
 hysteria2://2c833c5d-cbcc-4afb-89ba-d17dc39db6f0@75.127.13.83:47974?sni=www.bing.com&insecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hysteria2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@107.173.127.166:25000?sni=www.apple.com&insecure=1#yandex-99
 hysteria2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@198.23.130.211:25000?sni=api.push.apple.com&insecure=1#yandex-100
-hysteria2://573402b7-156e-4141-8c3b-f01b6ebedf05@hk01.jgpy.help:10085/?insecure=1&sni=apple.com
-hysteria2://573402b7-156e-4141-8c3b-f01b6ebedf05@hk03.jgpy.help:10089/?insecure=1&sni=apple.com
-hysteria2://573402b7-156e-4141-8c3b-f01b6ebedf05@us01.jgpy.help:10078/?insecure=1&sni=apple.com
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@agt.xn--mes13n8pi8x2b.shop:21440?insecure=0&mport=21001-21999#%E9%98%BF%E6%A0%B9%E5%BB%B71
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@agt.xn--mes13n8pi8x2b.shop:21654?insecure=0&mport=21001-21999#%E9%98%BF%E6%A0%B9%E5%BB%B72
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@mg.xn--mes13n8pi8x2b.shop:21349?insecure=0&mport=21001-21999#%E7%BE%8E%E5%9B%BD1
