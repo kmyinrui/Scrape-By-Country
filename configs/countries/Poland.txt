@@ -1,4 +1,3 @@
-ss://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&host=128.204.223.94&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
 ss://394f6981-a782-4779-9a85-e6cf22935d93@84.17.55.241:8443?encryption=none&security=tls&sni=pl1.fromblancwithlove.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
 ss://5e6cd281-2d03-4e72-9bb2-b38ce2da7cc7@pl.moktana.app:443?mode=gun&security=reality&encryption=none&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&fp=chrome&type=grpc&serviceName=moktana.net.v1.StreamService&sni=pl.moktana.app&sid=51e9fd4ba43f64d7#%3E%3E%40configshub2%3A%3APL
 ss://908e8778-5dbe-4f58-bb4b-5fe39e149ad1@5.189.221.162:8443?path=%2F&security=tls&encryption=none&host=p52ll.qwepsvip.top&fp=chrome&type=ws&sni=p52ll.qwepsvip.top#%F0%9F%87%B5%F0%9F%87%B1%20Poland%202
@@ -9,7 +8,6 @@ trojan://humanity@216.24.57.1:443/?type=ws&path=%2Fassignment&security=tls&sni=w
 trojan://humanity@216.24.57.6:443?path=%2Fassignment&security=tls&alpn=http/1.1&host=www.creationlong.org&fp=chrome&type=ws&sni=www.creationlong.org#%3E%3E%40ISVvpn%3A%3APL
 trojan://humanity@43.169.18.179:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%3E%3E%40configV2rayNG%3A%3APL
 trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443#%3E%3E%40oneclickvpnkeys%3A%3APL
-vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&host=128.204.223.94&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
 vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.55.241:8443?encryption=none&security=tls&sni=pl1.fromblancwithlove.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
 vless://5e6cd281-2d03-4e72-9bb2-b38ce2da7cc7@pl.moktana.app:443?mode=gun&security=reality&encryption=none&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&fp=chrome&type=grpc&serviceName=moktana.net.v1.StreamService&sni=pl.moktana.app&sid=51e9fd4ba43f64d7#%3E%3E%40configshub2%3A%3APL
 vless://908e8778-5dbe-4f58-bb4b-5fe39e149ad1@5.189.221.162:8443?path=%2F&security=tls&encryption=none&host=p52ll.qwepsvip.top&fp=chrome&type=ws&sni=p52ll.qwepsvip.top#%F0%9F%87%B5%F0%9F%87%B1%20Poland%202
