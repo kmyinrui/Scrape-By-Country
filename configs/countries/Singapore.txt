@@ -1,1 +1,1 @@
-ss://aes-128-gcm%3A6601fb90e9b3@csgfw.top:443#SG%20SS-139%20%7C%20free-nodes
+ss://aes-128-gcm%3A6601fb90e9b3@csgfw.top:443#SG%20SS-134%20%7C%20free-nodes
