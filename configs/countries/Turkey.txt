@@ -1,4 +1,7 @@
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@trq.xn--mes13n8pi8x2b.shop:21112?insecure=0&mport=21001-21999#%E5%9C%9F%E8%80%B3%E5%85%B61
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@trq.xn--mes13n8pi8x2b.shop:21910?insecure=0&mport=21001-21999#%E5%9C%9F%E8%80%B3%E5%85%B62
-ss://c35050ce-01ab-45a9-91b8-54cec637d0a8@185.184.121.101:8443?path=%2Fudfyfws&security=tls&encryption=none&insecure=1&host=octopusss5.info&type=ws&allowInsecure=1&sni=octopusss5.info#%3E%3E%40V2rayNG3%3A%3ATR
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@185.184.121.101:8443?path=%2Fudfyfws&security=tls&encryption=none&insecure=1&host=octopusss5.info&type=ws&allowInsecure=1&sni=octopusss5.info#%3E%3E%40V2rayNG3%3A%3ATR
+ss://0519589c-306e-4678-aa6b-b60f58f5352f@cdn.trakin.ir:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=cdn.trakin.ir&path=%2F&security=tls&sni=cdn.trakin.ir&type=ws#%3E%3E%40v2rayng_fast%3A%3ATR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNUVKWm9qVk1FTnZrRFZGWWxpRXFF@62.133.63.169:37096#%3E%3E%40configV2rayNG%3A%3ATR
+ss://ZoRoVpN@203.202.232.11:36068?path=%2FZoRoVpn&security=&encryption=none&host=Play.google.com&type=ws#%3E%3E%40shadowproxy66%3A%3ATR
+vless://0519589c-306e-4678-aa6b-b60f58f5352f@cdn.trakin.ir:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=cdn.trakin.ir&path=%2F&security=tls&sni=cdn.trakin.ir&type=ws#%3E%3E%40v2rayng_fast%3A%3ATR
+vless://ZoRoVpN@203.202.232.11:36068?path=%2FZoRoVpn&security=&encryption=none&host=Play.google.com&type=ws#%3E%3E%40shadowproxy66%3A%3ATR

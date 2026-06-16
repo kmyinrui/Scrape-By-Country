@@ -1,2 +1,4 @@
+ss://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=%2Fvless&security=&encryption=none&type=ws#%3E%3E%40ShadowsocksM%3A%3ASE
 ss://bef436c9-74fa-405e-fa8e-9d72788136ea@85.9.98.57:8082?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=%2Fvless&security=&encryption=none&type=ws#%3E%3E%40ShadowsocksM%3A%3ASE
 vless://bef436c9-74fa-405e-fa8e-9d72788136ea@85.9.98.57:8082?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20Sweden
