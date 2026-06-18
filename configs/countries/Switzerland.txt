@@ -19,7 +19,6 @@ ss://476caa1d-7c04-48ab-8de5-2c1af0d13a66@138.124.244.248:443?type=tcp&security=
 ss://83989465-4ec6-4dbe-97c6-2779df88d9e0@83.228.235.106:443?encryption=none&security=reality&sni=varzesh3.com&fp=chrome&pbk=MK3NN842R-fVl71Rdcn9oLAQNJrd-igvxPaKS_c6928&sid=accd8c&type=tcp&headerType=none#%E7%91%9E%E5%A3%AB%E4%B8%A8yoyapai.com
 ss://8f0f92fd-e087-4d5f-bb1b-ca350175d197@176.65.144.22:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=vk.com&fp=firefox&pbk=ReFC6hXXcJyyZGIhqjvjdYHv6xTBG-6uNM-wf63dykI&sid=40ce08cf20c67003&flow=xtls-rprx-vision#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-200
 ss://YWVzLTEyOC1nY206bHZ4dWoxMXg4c2ZndDlndDZtamY=@86.106.84.196:13263#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-171
-ss://YWVzLTEyOC1nY206bHZ4dWoxMXg4c2ZndDlndDZtamY@86.106.84.196:13263#%3E%3E%40shadowproxy66%3A%3ACH
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDM4LjE4MC4xNjEuMTIzOjgxMTk=#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-91
 ss://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@103.227.84.1:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=127zCnB9vtae6HnpowaSW8eFqflCAaBV0iM1oKHBWwY&sid=a1ab5a56bc42&sni=sw1tzerl4nd.gxcore.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-127
 ss://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@sw1tzerl4nd.gxcore.net:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&fp=&pbk=127zCnB9vtae6HnpowaSW8eFqflCAaBV0iM1oKHBWwY&security=reality&sid=a1ab5a56bc42&sni=&type=tcp#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-151
