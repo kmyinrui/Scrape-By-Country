@@ -1,2 +1,0 @@
-ss://a491b1c4-1141-4f59-9731-e0621f6e452f@8.6.112.126:443?encryption=none&security=tls&sni=website.yaroo383mardak.online&fp=firefox&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=website.yaroo383mardak.online&path=%2F%40mahdi_383ir#ws-tls%20public-Public-IP4
-vless://a491b1c4-1141-4f59-9731-e0621f6e452f@8.6.112.126:443?encryption=none&security=tls&sni=website.yaroo383mardak.online&fp=firefox&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=website.yaroo383mardak.online&path=%2F%40mahdi_383ir#ws-tls%20public-Public-IP4
