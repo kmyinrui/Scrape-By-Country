@@ -10,6 +10,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZnNjU0RjYi1TZUVxcVJiLm9telZHZ1ZnTnBYaDNiQTF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENIQDQ1Ljc3LjIzMi4yMTM6MTU2NzU=#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BA%20AU-49
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#%3E%3E%40shadowproxy66%3A%3AAU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BA%20AU-48
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@103.106.231.82:5600#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BA%20AU-61
 trojan://MiTiVPN@151.101.29.242:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&insecure=0&host=www.f6r.ir&type=ws&allowInsecure=0&sni=www.f6r.ir#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BA%20AU-57
 trojan://MiTiVPN@151.101.29.29:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BA%20AU-53
 trojan://MiTiVPN@151.101.31.31:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BA%20AU-54
