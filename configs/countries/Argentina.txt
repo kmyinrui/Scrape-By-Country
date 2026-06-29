@@ -2,7 +2,5 @@ hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@agt.xn--mes13n8pi8x2b.shop:2144
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@agt.xn--mes13n8pi8x2b.shop:21654?insecure=0&mport=21001-21999#%E9%98%BF%E6%A0%B9%E5%BB%B72
 ss://afcac633-0e1a-46c3-bef2-cc01cc0097c8@38.54.45.184:443?flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B7%20AR-1
 ss://afcac633-0e1a-46c3-bef2-cc01cc0097c8@38.54.45.184:443?flow=xtls-rprx-vision-udp443&fp=edge&security=tls&sni=r1.mizulina.top#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B7%20AR-2
-trojan://MiTiVPN@151.101.216.216:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B7%20AR-3
-trojan://MiTiVPN@151.101.217.242:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&insecure=0&host=www.f6r.ir&type=ws&allowInsecure=0&sni=www.f6r.ir#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B7%20AR-4
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@38.54.45.184:443?flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B7%20AR-1
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@38.54.45.184:443?flow=xtls-rprx-vision-udp443&fp=edge&security=tls&sni=r1.mizulina.top#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B7%20AR-2
