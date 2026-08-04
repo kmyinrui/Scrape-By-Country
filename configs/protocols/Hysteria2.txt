@@ -26,6 +26,7 @@ hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa7.api3-max.ru:443/?sni=wopa
 hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@150.241.124.145:443/?sni=ger.leontunel.ru#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@fi-one.quiet-rogue.site:443/?sni=fi-one.quiet-rogue.site#%3E%3E%40oneclickvpnkeys%3A%3AFI
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@swe-one.quiet-rogue.site:443/?sni=swe-one.quiet-rogue.site#%3E%3E%40oneclickvpnkeys%3A%3ASE
+hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52008?security=tls&obfs=salamander&obfs-password=93lc6r07zfx4crct&insecure=0&sni=assets.gateway-stream.com
 hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52024?security=tls&obfs=salamander&obfs-password=t72hzzenktxmrvgu&insecure=0&sni=assets.gateway-stream.com
 hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335?sni=drhystuichdfy.samanidempire.org&alpn=h3&obfs=salamander&obfs-password=U1wBrYQyFm&insecure=0#%F0%9F%87%B8%F0%9F%87%AA-hamedp71%20-%20Hysteria2
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.213:8443/?sni=mercedes-grape.yyuyy.com#%3E%3E%40oneclickvpnkeys%3A%3ADE
@@ -40,7 +41,6 @@ hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@93.114.194.117:8443/?sni=grap
 hysteria2://Krab9Hyst2_Rk7pQ2xL@de2.vpn.legendaah.xyz:36723/?insecure=1&sni=www.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443/?insecure=1&sni=5.255.102.165#%3E%3E%40oneclickvpnkeys%3A%3ANL
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@77.74.123.133:8443/?sni=grape-zet-turbo-nl.yyuyy.com#%3E%3E%40oneclickvpnkeys%3A%3AXX
-hysteria2://TelegramVPNjey@179.61.251.253:37003?security=tls&obfs=salamander&alpn=h3&obfs-password=83v9muumcyikh5ch&insecure=0&sni=de.jey.cc.cd
 hysteria2://Uq5DgLZRU6hpn7ydRcePOeOk4i1c2tJIEk3rMZMUobo@144.31.107.101:25447/?sni=devideo.h2corp.org#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
