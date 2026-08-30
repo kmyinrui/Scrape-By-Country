@@ -3,6 +3,7 @@ hysteria2://865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01@str
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443/?sni=admin.wwwinternetvideo.click#%3E%3E%40oneclickvpnkeys%3A%3APL
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443/?insecure=1#%3E%3E%40oneclickvpnkeys%3A%3APL
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443/?insecure=1&sni=admin.wwwinternetvideo.click#%3E%3E%40oneclickvpnkeys%3A%3APL
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go2.wwwinternetvideo.click:443/?insecure=1&sni=admin.wwwinternetvideo.click#%3E%3E%40oneclickvpnkeys%3A%3APL
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.226:8443/?insecure=1&sni=hopp-legend-se.roxa.org#%3E%3E%40oneclickvpnkeys%3A%3APL
 ss://004194c6-8f81-4e64-ad0d-55cb1bfb92a9@50.7.249.218:8443?alpn=http/1.1&encryption=none&fp=firefox&path=/api/connect&security=tls&sni=apkav-5.bosx.net&type=ws#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-2269
 ss://0072bf1f-63d0-4f7e-8c0a-47bfad743ed9@82.26.91.166:26356?encryption=none&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-1957
