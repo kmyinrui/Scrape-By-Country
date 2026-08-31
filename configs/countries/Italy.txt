@@ -79,6 +79,7 @@ ss://62a08ea5-0564-47b4-a92c-25be07ad6358@31.77.154.46:443?type=grpc&security=re
 ss://67ad6de6-ac67-4af7-8209-98ba3bd88834@116.204.164.27:7443?encryption=none&type=ws&host=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&path=%2F%40Marisa_kristi&security=tls&fp=chrome&sni=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-658
 ss://67f37ffe-c8c4-4ced-8f9c-5b45738224f1@juventusoldhag.belzema.ir:7006?security=reality&encryption=none&pbk=0QdpIQcpbMkJCpL1XY0soedKEfJfHgIKz3tWmjLa6yE&headerType=none&fp=qq&type=tcp&sni=play.google.com#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-815
 ss://699ce9a1-abbb-4525-988e-b940381352e8@151.241.215.109:33843?type=grpc&security=reality&fp=firefox&pbk=y3y0w-Mhz21jNw5LKtPV5fDmNqfP02k7eybhQ60VeAM&sid=90fc8bd93749&sni=www.cloudflare.com&serviceName=grpc&spx=/vcgwf7il3dy9t10#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-882
+ss://699ce9a1-abbb-4525-988e-b940381352e8@151.241.215.109:443?encryption=none&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT
 ss://699ce9a1-abbb-4525-988e-b940381352e8@151.241.215.109:8443?type=tcp&security=reality&fp=firefox&pbk=UQ6dyuQKvCZjFH3BiGswrecUsrptDXQ67dvKFuQC5DA&sid=74933f39a9693c&sni=yandex.ru#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-876
 ss://69ac162b-1643-4acb-9f49-09d8b0fad609@57.131.21.102:8443?security=tls&type=ws&path=/RoBeRt&sni=milan.adaspoloandco.com&fp=qq#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-896
 ss://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?security=tls&type=ws&path=%2FRoBeRt&fp=qq#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-897
@@ -100,7 +101,6 @@ ss://95ae0de8-d944-4b1e-b450-d34d80f9a528@xit.saturn-cloud.net:443?&security=rea
 ss://95ae0de8-d944-4b1e-b450-d34d80f9a528@xit.saturn-cloud.net:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&fp=&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&security=reality&sid=2762604ed2e0fa2f&sni=&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-810
 ss://95ae0de8-d944-4b1e-b450-d34d80f9a528@xit.saturn-cloud.net:443?security=reality&encryption=none&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=xit.saturn-cloud.net&sid=2762604ed2e0fa2f#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-819
 ss://9dd5bcab-4a60-4f97-a7a4-77e98eabf9c4@116.204.164.17:7443?security=tls&type=ws&path=%2F%40Marisa_kristi&host=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&sni=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&fp=chrome&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-817
-ss://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AIT
 ss://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?path=%2F+&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-845
 ss://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&host=v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=chrome&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-866
 ss://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-452
@@ -114,7 +114,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPZW93OFllcWFGWTBza1YyOUdGMEdWVGIydkdyQjVBb0A
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDE4NS4yMTMuMjAuMTEwOjcwMDE=#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-77
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.180.194.61:9090#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-811
 ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA==@194.87.47.162:10901#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-857
-ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.204:10901#%3E%3E%40configV2rayNG%3A%3AIT
 ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.204:10901#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-834
 ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOEA2Mi43Ni4yMzQuMTg4OjEwOTAx#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-801
 ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOEA2Mi43Ni4yMzQuOTI6MTA5MDE=#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-877
@@ -234,6 +233,7 @@ vless://62a08ea5-0564-47b4-a92c-25be07ad6358@31.77.154.46:443?type=grpc&security
 vless://67ad6de6-ac67-4af7-8209-98ba3bd88834@116.204.164.27:7443?encryption=none&type=ws&host=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&path=%2F%40Marisa_kristi&security=tls&fp=chrome&sni=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-658
 vless://67f37ffe-c8c4-4ced-8f9c-5b45738224f1@juventusoldhag.belzema.ir:7006?security=reality&encryption=none&pbk=0QdpIQcpbMkJCpL1XY0soedKEfJfHgIKz3tWmjLa6yE&headerType=none&fp=qq&type=tcp&sni=play.google.com#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-815
 vless://699ce9a1-abbb-4525-988e-b940381352e8@151.241.215.109:33843?type=grpc&security=reality&fp=firefox&pbk=y3y0w-Mhz21jNw5LKtPV5fDmNqfP02k7eybhQ60VeAM&sid=90fc8bd93749&sni=www.cloudflare.com&serviceName=grpc&spx=/vcgwf7il3dy9t10#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-882
+vless://699ce9a1-abbb-4525-988e-b940381352e8@151.241.215.109:443?encryption=none&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT
 vless://699ce9a1-abbb-4525-988e-b940381352e8@151.241.215.109:8443?type=tcp&security=reality&fp=firefox&pbk=UQ6dyuQKvCZjFH3BiGswrecUsrptDXQ67dvKFuQC5DA&sid=74933f39a9693c&sni=yandex.ru#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-876
 vless://69ac162b-1643-4acb-9f49-09d8b0fad609@57.131.21.102:8443?security=tls&type=ws&path=/RoBeRt&sni=milan.adaspoloandco.com&fp=qq#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-896
 vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?security=tls&type=ws&path=%2FRoBeRt&fp=qq#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-897
@@ -255,7 +255,6 @@ vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@xit.saturn-cloud.net:443?&security=
 vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@xit.saturn-cloud.net:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&fp=&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&security=reality&sid=2762604ed2e0fa2f&sni=&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-810
 vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@xit.saturn-cloud.net:443?security=reality&encryption=none&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=xit.saturn-cloud.net&sid=2762604ed2e0fa2f#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-819
 vless://9dd5bcab-4a60-4f97-a7a4-77e98eabf9c4@116.204.164.17:7443?security=tls&type=ws&path=%2F%40Marisa_kristi&host=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&sni=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&fp=chrome&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-817
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AIT
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?path=%2F+&security=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-845
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&host=v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=chrome&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-866
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-452
