@@ -4,10 +4,7 @@ hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&sni=12
 hysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443/?insecure=1&sni=gorbachev-new-th.kvnfreetest.uk#%3E%3E%40oneclickvpnkeys%3A%3ANL
 hysteria2://1m1xfvpaa5ek4omq@giftcard.gateway-stream.com:52029?security=tls&obfs=salamander&alpn=h3&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com
 hysteria2://1m1xfvpaa5ek4omq@giftcard.gateway-stream.com:52030?security=tls&obfs=salamander&alpn=h3&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com
-hysteria2://1m1xfvpaa5ek4omq@giftcard.gateway-stream.com:52067?security=tls&obfs=salamander&alpn=h3&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com
 hysteria2://1w61o8j0slf0q9yj@giftcard.gateway-stream.com:52024?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com
-hysteria2://1w61o8j0slf0q9yj@giftcard.gateway-stream.com:52030?security=tls&obfs=salamander&alpn=h3&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com
-hysteria2://1w61o8j0slf0q9yj@giftcard.gateway-stream.com:52067?security=tls&obfs=salamander&alpn=h3&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com
 hysteria2://22j0d00lev7mq0yv@musicclips.videolinks.ru:8443/?insecure=1&obfs=salamander&obfs-password=8zzng75tz4tf82pj&sni=musicclips.videolinks.ru%23%F0%9F%8E%97%EF%B8%8F89@oneclickvpnkeysvless://551955b3-46e9-5129-95c9-e7474c15ed6b@144.31.171.233:443?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=pl6.fast-connect-service.site&type=tcp%23%F0%9F%8E%97%EF%B8%8F90@oneclickvpnkeys#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-22189
 hysteria2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@144.31.148.87:443/?insecure=1&sni=replay.wwwinternetvideo.click#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hysteria2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@replay.wwwinternetvideo.click:443/?insecure=1&sni=replay.wwwinternetvideo.click#%3E%3E%40oneclickvpnkeys%3A%3ADE
