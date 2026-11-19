@@ -1,2 +1,2 @@
-hysteria2://b36a14f8-fc3f-4142-968f-48031cf5f330@38.17.64.118:25515?insecure=1&alpn=h3&sni=2c74e5t.tr3.h1clayd.click#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%AAVE-34
-hysteria2://b36a14f8-fc3f-4142-968f-48031cf5f330@38.17.64.118:25515?insecure=1&sni=2c74e5t.tr3.h1clayd.click#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%AAVE-27
+hysteria2://b36a14f8-fc3f-4142-968f-48031cf5f330@38.17.64.118:25515?insecure=1&alpn=h3&sni=2c74e5t.tr3.h1clayd.click#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%AAVE-36
+hysteria2://b36a14f8-fc3f-4142-968f-48031cf5f330@38.17.64.118:25515?insecure=1&sni=2c74e5t.tr3.h1clayd.click#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%AAVE-28
