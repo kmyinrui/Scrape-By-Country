@@ -15,7 +15,7 @@ ss://129044e0-8ca6-49f8-bd35-71cfe2914c46@95.214.55.176:8443?encryption=none&flo
 ss://2dbd26f0-f419-4026-b553-0a3e08cca1ee@5.104.74.48:8443?flow=xtls-rprx-vision&fp=firefox&pbk=kJsnrk06lPN3juIX5zXm1Sc_LUQcM5ueZ0l2HC6HEjI&security=reality&sid=9ae55c76092c774a&sni=forum-nl-p1.ovchinkasp.ru&type=raw#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1PL-11
 ss://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vkvd754.okcdn.ru&fp=chrome&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&sid=b7cd177731793b1e&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1PL-16
 ss://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?flow=xtls-rprx-vision&fp=chrome&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&security=reality&sid=dd3519f8d7626e05&sni=vkvd754.okcdn.ru&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1PL-36
-ss://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?flow=xtls-rprx-vision&fp=firefox&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&security=reality&sid=6b196d2f190f32b3&sni=vkvd754.okcdn.ru&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1PL-51
+ss://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?flow=xtls-rprx-vision&fp=firefox&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&security=reality&sid=6b196d2f190f32b3&sni=vkvd754.okcdn.ru&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1PL-50
 ss://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?flow=xtls-rprx-vision&fp=firefox&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&security=reality&sid=a9c11b06829163c9&sni=vkvd754.okcdn.ru&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1PL-27
 ss://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?flow=xtls-rprx-vision&fp=firefox&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&security=reality&sid=b7cd177731793b1e&sni=vkvd754.okcdn.ru&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1PL-44
 ss://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?flow=xtls-rprx-vision&fp=firefox&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&security=reality&sid=dd3519f8d7626e05&sni=vkvd754.okcdn.ru&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1PL-4
@@ -40,13 +40,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl140.vpnbook.com:443#%3E%3E%40one
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@217.30.10.70:9031#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1PL-35
 ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@217.30.10.70:9027#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1PL-22
 ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ@217.30.10.44:9006#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1PL-20
-ss://YWVzLTI1Ni1jZmI6TjdqM3BkVFlrS21zeThDUg@217.30.10.44:9095#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1PL-53
+ss://YWVzLTI1Ni1jZmI6TjdqM3BkVFlrS21zeThDUg@217.30.10.44:9095#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1PL-52
 ss://YWVzLTI1Ni1jZmI6UVdERHZWRTlucE51clFmQQ@217.30.10.70:9026#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1PL-42
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg@217.30.10.70:9041#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1PL-25
 ss://YWVzLTI1Ni1jZmI6WnBORERLUnU5TWFnTnZhZg==@217.30.10.70:9015#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1PL-12
 ss://YWVzLTI1Ni1jZmI6YVFxSmJ0d0ZHY0NDYWVMMw@217.30.10.44:9063#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1PL-10
 ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ@217.30.10.70:9038#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1PL-33
-ss://YWVzLTI1Ni1jZmI6anQyZWtCTmM5SHVWdG0yYQ@217.30.10.44:9052#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1PL-52
+ss://YWVzLTI1Ni1jZmI6anQyZWtCTmM5SHVWdG0yYQ@217.30.10.44:9052#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1PL-51
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#%3E%3E%40FreakConfig%3A%3APL
 ss://b3a11068-1a7e-4643-85de-7c82cce46943@185.223.57.10:33743?security=reality&encryption=none&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&fp=chrome&spx=%2F&type=grpc&serviceName=TunService&sni=www.google.com#%3E%3E%40configV2rayNG%3A%3APL
 ss://bebc775c-0de1-451c-80cb-64ee06fd5447@194.87.60.4:443?fm=AhmadV2ray&sid=3ad720a1ef5e02a2&security=reality&sni=pl-80754f07cc.sishka.network&spx=/AhmadV2ray&fp=chrome&pbk=uYiZWRgbowvS9uOhVZTe0FBS1pLzA3QMyQ_NfDh4_h8&type=tcp&headerType=none&encryption=none&flow=xtls-rprx-vision#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1PL-32
@@ -64,7 +64,7 @@ vless://129044e0-8ca6-49f8-bd35-71cfe2914c46@95.214.55.176:8443?encryption=none&
 vless://2dbd26f0-f419-4026-b553-0a3e08cca1ee@5.104.74.48:8443?flow=xtls-rprx-vision&fp=firefox&pbk=kJsnrk06lPN3juIX5zXm1Sc_LUQcM5ueZ0l2HC6HEjI&security=reality&sid=9ae55c76092c774a&sni=forum-nl-p1.ovchinkasp.ru&type=raw#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1PL-11
 vless://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vkvd754.okcdn.ru&fp=chrome&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&sid=b7cd177731793b1e&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1PL-16
 vless://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?flow=xtls-rprx-vision&fp=chrome&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&security=reality&sid=dd3519f8d7626e05&sni=vkvd754.okcdn.ru&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1PL-36
-vless://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?flow=xtls-rprx-vision&fp=firefox&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&security=reality&sid=6b196d2f190f32b3&sni=vkvd754.okcdn.ru&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1PL-51
+vless://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?flow=xtls-rprx-vision&fp=firefox&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&security=reality&sid=6b196d2f190f32b3&sni=vkvd754.okcdn.ru&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1PL-50
 vless://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?flow=xtls-rprx-vision&fp=firefox&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&security=reality&sid=a9c11b06829163c9&sni=vkvd754.okcdn.ru&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1PL-27
 vless://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?flow=xtls-rprx-vision&fp=firefox&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&security=reality&sid=b7cd177731793b1e&sni=vkvd754.okcdn.ru&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1PL-44
 vless://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?flow=xtls-rprx-vision&fp=firefox&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&security=reality&sid=dd3519f8d7626e05&sni=vkvd754.okcdn.ru&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1PL-4
