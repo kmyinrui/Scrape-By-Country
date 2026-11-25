@@ -1,8 +1,8 @@
-hy2://b42d90fa667942aebc734d60@159.13.55.48:20000?sni=hy2-au2.whuiy.xyz&obfs=salamander&obfs-password=b42d90fa667942aebc734d60#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BAAU-23
+hy2://b42d90fa667942aebc734d60@159.13.55.48:20000?sni=hy2-au2.whuiy.xyz&obfs=salamander&obfs-password=b42d90fa667942aebc734d60#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BAAU-24
 hy2://linlin-2026@13.55.52.44:36712?sni=13.55.52.44&insecure=1#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BAAU-1
 hysteria2://linlin-2026@13.237.192.121:36712?insecure=1#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BAAU-9
 hysteria2://linlin-2026@13.237.192.121:36712?sni=off&insecure=1#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BAAU-2
-hysteria2://linlin-2026@13.55.52.44:36712?sni=off&insecure=1#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BAAU-24
+hysteria2://linlin-2026@13.55.52.44:36712?sni=off&insecure=1#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BAAU-25
 hysteria2://linlin-2026@3.106.35.101:36712?insecure=1#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BAAU-14
 hysteria2://linlin-2026@3.106.35.101:36712?sni=off&insecure=1#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BAAU-8
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.169.142.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BAAU-6
@@ -14,8 +14,8 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?sni=45.63.30.142&allo
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?sni=connectwithemployerstohireyouridealteam.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BAAU-16
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?sni=connectwithemployerstohireyouridealteam.com&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BAAU-13
 trojan://AE62539071@wanted-marmoset.rooster465.autos:443?security=tls&sni=wanted-marmoset.rooster465.autos&path=%2f#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BAAU-4
-trojan://IQ68037294@eternal-frog.rooster465.autos:443?security=tls&sni=eternal-frog.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BAAU-29
-trojan://KV63147582@selected-bison.rooster465.autos:443?security=tls&sni=selected-bison.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BAAU-27
+trojan://IQ68037294@eternal-frog.rooster465.autos:443?security=tls&sni=eternal-frog.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BAAU-30
+trojan://KV63147582@selected-bison.rooster465.autos:443?security=tls&sni=selected-bison.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BAAU-28
 trojan://XG59623478@concise-buck.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=concise-buck.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BAAU-5
 trojan://XG59623478@stirring-dane.rooster465.autos:443?security=tls&sni=stirring-dane.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BAAU-21
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.169.142.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BAAU-6
